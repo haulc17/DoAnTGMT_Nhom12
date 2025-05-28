@@ -1,0 +1,2001 @@
+data/1.jpg Hôm nay trời đẹp quá. 
+data/2.jpg Tôi thích ăn phở bò. 
+data/3.jpg Bạn có khỏe không? 
+data/4.jpg Con mèo đang ngủ. 
+data/5.jpg Trời mưa rất to. 
+data/6.jpg Chúng ta đi chơi nhé! 
+data/7.jpg Bánh mì rất ngon. 
+data/8.jpg Học hành chăm chỉ nhé! 
+data/9.jpg Cây xanh tỏa bóng mát. 
+data/10.jpg Bé Lan thích đọc sách. 
+data/11.jpg Xe máy chạy rất nhanh. 
+data/12.jpg Ngày mai tôi đi học. 
+data/13.jpg Chú chó đuổi theo bóng. 
+data/14.jpg Bố mẹ tôi rất yêu tôi. 
+data/15.jpg Cậu bé cười vui vẻ. 
+data/16.jpg Chúng tôi cùng nhau hát. 
+data/17.jpg Hoa hồng có gai nhọn. 
+data/18.jpg Gió thổi lá rơi đầy. 
+data/19.jpg Cô giáo đang giảng bài. 
+data/20.jpg Em bé khóc vì đói.
+data/21.jpg Bác sĩ đang khám bệnh. 
+data/22.jpg Tôi vừa mua một cuốn sách. 
+data/23.jpg Bố tôi lái xe đi làm. 
+data/24.jpg Cô ấy hát rất hay. 
+data/25.jpg Anh trai tôi học đại học. 
+data/26.jpg Chiếc đồng hồ kêu tích tắc. 
+data/27.jpg Mùa hè trời rất nóng. 
+data/28.jpg Chúng ta cùng chơi bóng. 
+data/29.jpg Mẹ nấu canh chua cá lóc. 
+data/30.jpg Bầu trời xanh thẳm. 
+data/31.jpg Chim én bay lượn trên cao. 
+data/32.jpg Tôi đang viết thư tay. 
+data/33.jpg Em bé cười tươi. 
+data/34.jpg Ông bà tôi sống ở quê. 
+data/35.jpg Nhà tôi có nuôi một con mèo. 
+data/36.jpg Gió mạnh làm cây nghiêng ngả. 
+data/37.jpg Chúng tôi cùng nhau đạp xe. 
+data/38.jpg Quả táo đỏ rất ngọt. 
+data/39.jpg Bé An đang vẽ tranh. 
+data/40.jpg Nước chảy róc rách. 
+data/41.jpg Trời lạnh, tôi mặc áo len. 
+data/42.jpg Tôi thích nghe nhạc nhẹ. 
+data/43.jpg Chiếc xe buýt màu xanh. 
+data/44.jpg Bố mẹ tôi đi du lịch. 
+data/45.jpg Đêm nay trời đầy sao.
+data/46.jpg Cậu bé đang đá bóng. 
+data/47.jpg Tôi thích uống trà sữa. 
+data/48.jpg Cô giáo viết bảng. 
+data/49.jpg Mẹ tôi đang tưới cây. 
+data/50.jpg Tôi mua một đôi giày mới. 
+data/51.jpg Trẻ con rất hiếu động. 
+data/52.jpg Bầu trời hôm nay đầy mây. 
+data/53.jpg Chị tôi thích ăn kem. 
+data/54.jpg Con đường này rất đẹp. 
+data/55.jpg Tôi tập thể dục mỗi sáng. 
+data/56.jpg Bé Na có một con búp bê. 
+data/57.jpg Anh ấy đang sửa xe. 
+data/58.jpg Nhà tôi gần công viên. 
+data/59.jpg Cô bé đang chơi nhảy dây. 
+data/60.jpg Chúng tôi đi xem phim. 
+data/61.jpg Lớp học rất yên tĩnh. 
+data/62.jpg Tôi đang chờ xe buýt. 
+data/63.jpg Chú gà trống gáy vang. 
+data/64.jpg Bạn tôi thích vẽ tranh. 
+data/65.jpg Ông tôi hay kể chuyện cổ tích. 
+data/66.jpg Em gái tôi có mái tóc dài. 
+data/67.jpg Tôi viết nhật ký mỗi ngày. 
+data/68.jpg Con cá vàng đang bơi. 
+data/69.jpg Chúng tôi cùng làm bài tập. 
+data/70.jpg Tôi mua một chiếc balo mới. 
+data/71.jpg Sáng nay tôi ăn bánh cuốn. 
+data/72.jpg Làn gió thổi qua nhẹ nhàng. 
+data/73.jpg Cây dừa cao vút. 
+data/74.jpg Bạn có thích đọc sách không? 
+data/75.jpg Tiếng chim hót líu lo.
+data/76.jpg "Hôm nay là ngày 8/3!" 
+data/77.jpg Tôi có 2 quyển vở. 
+data/78.jpg "Bạn tên là gì?" – Tôi hỏi. 
+data/79.jpg Trời nóng quá... 
+data/80.jpg Lớp học có 30 học sinh. 
+data/81.jpg 5 giờ sáng, tôi thức dậy. 
+data/82.jpg "Đừng chạy nhanh quá!" 
+data/83.jpg Tôi ăn 3 cái bánh mì. 
+data/84.jpg "Hẹn gặp lại nhé!" – Cô ấy nói. 
+data/85.jpg Bé Na cao 1m25. 
+data/86.jpg Tôi vừa mua 1 chiếc áo mới. 
+data/87.jpg "Có ai ở nhà không?" 
+data/88.jpg Hôm nay là thứ 2. 
+data/89.jpg Giá của cuốn sách là 120.000đ. 
+data/90.jpg Cô giáo nói: "Các em hãy làm bài tập!" 
+data/91.jpg Chúng tôi đi chơi lúc 18:30. 
+data/92.jpg "Wow! Món này ngon quá!" 
+data/93.jpg Bé Bin 6 tuổi rồi. 
+data/94.jpg Tôi chạy bộ 2km mỗi ngày. 
+data/95.jpg "Sắp tới giờ học rồi..." 
+data/96.jpg Quán cà phê mở cửa lúc 7h sáng. 
+data/97.jpg Tôi mua 1kg táo ở chợ. 
+data/98.jpg "Chúng ta cùng nhau cố gắng nhé!" 
+data/99.jpg Nhiệt độ hôm nay là 27°C. 
+data/100.jpg Tôi đọc sách lúc 9:45 tối.
+data/101.jpg "Trời mưa rồi, mang ô nhé!" 
+data/102.jpg Tôi có 4 cây bút màu. 
+data/103.jpg "Hôm nay là sinh nhật tôi!" 
+data/104.jpg Chuyến tàu khởi hành lúc 15:20. 
+data/105.jpg Lớp học có 25 bàn ghế. 
+data/106.jpg "Bạn có muốn uống cà phê không?" 
+data/107.jpg Cô ấy cao 1m65. 
+data/108.jpg "Thời gian không chờ đợi ai..." 
+data/109.jpg Tôi mua 2kg cam giá 50.000đ. 
+data/110.jpg "Sáng nay trời lạnh 16°C." 
+data/111.jpg Tôi chạy bộ lúc 6h sáng. 
+data/112.jpg "Bạn có biết bây giờ là mấy giờ không?" 
+data/113.jpg Giá vé xem phim là 100.000đ/người. 
+data/114.jpg "Wow! Món ăn này tuyệt quá!" 
+data/115.jpg Tôi có 3 con mèo. 
+data/116.jpg "Chúng ta đi đâu bây giờ?" 
+data/117.jpg Quán ăn đóng cửa lúc 22:00. 
+data/118.jpg "Đừng quên mang theo áo mưa!" 
+data/119.jpg Tôi học bài đến 11h đêm. 
+data/120.jpg "Bạn thích nghe nhạc gì?" 
+data/121.jpg Tôi đã đọc 50 trang sách hôm nay. 
+data/122.jpg "Lúc 14h, chúng ta gặp nhau nhé!" 
+data/123.jpg Chai nước này có dung tích 1.5L. 
+data/124.jpg "Đợi mình 5 phút nữa!" 
+data/125.jpg Tôi đã hoàn thành 80% công việc.
+data/126.jpg "Bạn đã ăn sáng chưa?" 
+data/127.jpg Tôi có 7 quyển truyện tranh. 
+data/128.jpg "Chúc mừng năm mới 2025!" 
+data/129.jpg Chiếc điện thoại này giá 9.990.000đ. 
+data/130.jpg "Đừng quên cuộc hẹn lúc 10:15 sáng!" 
+data/131.jpg Tôi đi ngủ lúc 23:30. 
+data/132.jpg "Cố gắng lên, bạn làm được mà!" 
+data/133.jpg Bé Na 5 tuổi rồi! 
+data/134.jpg "Sáng nay trời lạnh 18°C." 
+data/135.jpg Tôi uống 2 ly cà phê mỗi ngày. 
+data/136.jpg "Wow! Khung cảnh này đẹp quá..." 
+data/137.jpg Tôi đã đọc xong 120 trang sách. 
+data/138.jpg "Bạn có biết đây là ai không?" 
+data/139.jpg Chuyến bay khởi hành lúc 16:45. 
+data/140.jpg "Hãy viết email cho tôi trước 20h!" 
+data/141.jpg Tôi mua 3 cái bánh giá 25.000đ. 
+data/142.jpg "Bây giờ là 12:00 trưa." 
+data/143.jpg Tôi cần 2kg đường để nấu chè. 
+data/144.jpg "Thời gian trôi qua thật nhanh!" 
+data/145.jpg Tôi chạy bộ 5km mỗi sáng. 
+data/146.jpg "Hẹn gặp lại vào thứ 7 nhé!" 
+data/147.jpg Trẻ em dưới 6 tuổi được miễn phí vé. 
+data/148.jpg "Trời sắp mưa rồi, cẩn thận nhé!" 
+data/149.jpg Tôi học lập trình từ năm 2023. 
+data/150.jpg "Bạn có muốn đi xem phim không?"
+data/151.jpg "Chúng ta cùng nhau cố gắng nhé!" 
+data/152.jpg Tôi đã hoàn thành bài tập toán. 
+data/153.jpg "Bạn có thể giúp tôi một chút không?" 
+data/154.jpg Mèo con đang chơi với cuộn len. 
+data/155.jpg "Lớp học hôm nay rất thú vị!" 
+data/156.jpg Tôi vừa mua một cây đàn guitar. 
+data/157.jpg "Nhạc này nghe hay quá!" 
+data/158.jpg Cô ấy đang viết thư tay cho bạn. 
+data/159.jpg "Cuốn sách này rất hấp dẫn!" 
+data/160.jpg Tôi đi bơi vào mỗi chiều thứ 7. 
+data/161.jpg "Bạn có muốn thử món này không?" 
+data/162.jpg Cây cầu bắc qua con sông rộng. 
+data/163.jpg "Chúng ta sắp đến nơi rồi!" 
+data/164.jpg Tôi thích đi bộ vào buổi tối. 
+data/165.jpg "Bạn đã từng đến Đà Nẵng chưa?" 
+data/166.jpg Chiếc váy này có màu xanh dương. 
+data/167.jpg "Tôi đang học tiếng Anh mỗi ngày." 
+data/168.jpg Trường học nằm cạnh công viên. 
+data/169.jpg "Hãy nhớ mang theo áo khoác!" 
+data/170.jpg Tôi thường uống trà vào buổi sáng. 
+data/171.jpg "Hôm nay có nhiều việc phải làm!" 
+data/172.jpg Cánh đồng lúa chín vàng rực rỡ. 
+data/173.jpg "Bạn hãy đợi tôi một lát nhé!" 
+data/174.jpg Con đường này rất dài và thẳng. 
+data/175.jpg "Tôi thích nghe nhạc cổ điển."
+data/176.jpg "Bạn có muốn uống trà xanh không?" 
+data/177.jpg Tôi vừa mua một chiếc cặp sách mới. 
+data/178.jpg "Chuyến du lịch lần này rất thú vị!" 
+data/179.jpg Cậu bé đang chơi xích đu trong công viên. 
+data/180.jpg "Hãy bật đèn lên, trời tối rồi!" 
+data/181.jpg Tôi thích vẽ tranh phong cảnh. 
+data/182.jpg "Bạn có thể nói chậm hơn được không?" 
+data/183.jpg Hôm nay tôi đi siêu thị mua rau củ. 
+data/184.jpg "Thời tiết hôm nay thật dễ chịu!" 
+data/185.jpg Chị tôi đang nấu một bữa ăn ngon. 
+data/186.jpg "Bạn đã xem bộ phim đó chưa?" 
+data/187.jpg Tôi có một con cá vàng rất đẹp. 
+data/188.jpg "Hãy gọi taxi đến đón tôi nhé!" 
+data/189.jpg Anh trai tôi chơi đàn piano rất hay. 
+data/190.jpg "Bạn có thích đọc truyện tranh không?" 
+data/191.jpg Trời nắng gắt, tôi phải đội mũ. 
+data/192.jpg "Bạn có thể giúp tôi dọn dẹp không?" 
+data/193.jpg Tôi đang chờ xe bus ở trạm. 
+data/194.jpg "Cuối tuần này chúng ta đi chơi nhé!" 
+data/195.jpg Bé Na đang tập tô màu bức tranh. 
+data/196.jpg "Bạn hãy thử món này đi, rất ngon!" 
+data/197.jpg Tôi đi ngủ sớm để có sức khỏe tốt. 
+data/198.jpg "Đường phố hôm nay rất đông người." 
+data/199.jpg Tôi thích ngắm hoàng hôn trên biển. 
+data/200.jpg "Bạn nhớ gửi email cho tôi nhé!"
+data/201.jpg Tôi chạy bộ 3km mỗi sáng. 
+data/202.jpg "Trời hôm nay thật đẹp!" 
+data/203.jpg Bố tôi đi làm từ 7h - 17h. 
+data/204.jpg "Bạn có muốn đi uống trà sữa không?" 
+data/205.jpg Giá của chiếc điện thoại này là 12.500.000đ. 
+data/206.jpg Tôi có 2 anh chị em. 
+data/207.jpg "Món ăn này ngon quá, bạn thử đi!" 
+data/208.jpg Hôm nay là thứ 5 - ngày 15/03. 
+data/209.jpg Tôi thức dậy lúc 5:30 sáng. 
+data/210.jpg "Bạn có rảnh vào chiều nay không?" 
+data/211.jpg Vé xem phim giá 80.000đ/người. 
+data/212.jpg Xe bus tuyến 01 chạy từ 6:00 - 21:30. 
+data/213.jpg Tôi đặt vé máy bay vào ngày 10/04. 
+data/214.jpg "Hôm nay sinh nhật ai thế?" 
+data/215.jpg Tôi vừa mua 1kg xoài ở chợ. 
+data/216.jpg "Bạn giúp tôi một chút được không?" 
+data/217.jpg Nhiệt độ ngoài trời là 30°C. 
+data/218.jpg Tôi đi học từ thứ 2 - thứ 6. 
+data/219.jpg "Chuyến bay của bạn cất cánh lúc mấy giờ?" 
+data/220.jpg Tôi có 5 quyển sách yêu thích. 
+data/221.jpg "Bạn có thích chơi thể thao không?" 
+data/222.jpg Lương tháng này của tôi là 15 triệu đồng. 
+data/223.jpg "Bạn có thể gọi món giúp tôi không?" 
+data/224.jpg Quán cà phê mở cửa từ 7h - 22h. 
+data/225.jpg Tôi đặt hàng online vào ngày 05/05.
+data/226.jpg Hôm nay là ngày 12/03/2025. 
+data/227.jpg Tôi cần mua 2kg gạo, 1kg đường và 500g muối. 
+data/228.jpg Trận bóng đá bắt đầu lúc 19:45. 
+data/229.jpg Nhà tôi có 3 phòng ngủ, 1 phòng khách và 1 nhà bếp. 
+data/230.jpg Lịch học của tôi: thứ 2 - toán, thứ 3 - văn, thứ 4 - anh. 
+data/231.jpg Tôi làm việc từ 8:00 - 17:30 mỗi ngày. 
+data/232.jpg Nhiệt độ hôm nay là 28°C, có thể có mưa nhẹ. 
+data/233.jpg Vé tàu đi Hà Nội có giá 450.000đ/người. 
+data/234.jpg Ngày 30/04 là ngày lễ lớn ở Việt Nam. 
+data/235.jpg Tôi sẽ đi du lịch từ 10/06 - 15/06. 
+data/236.jpg Chiếc xe này chạy được 500km chỉ với 1 lần đổ xăng. 
+data/237.jpg Tôi đã đọc xong 250 trang sách trong 3 ngày. 
+data/238.jpg Chuyến xe bus số 05 dừng tại 10 trạm trên đường. 
+data/239.jpg Bài kiểm tra bắt đầu lúc 9:00 và kết thúc lúc 10:30. 
+data/240.jpg Hóa đơn điện tháng này là 750.000đ. 
+data/241.jpg Tôi thức dậy lúc 5:15 để chạy bộ 2km. 
+data/242.jpg Nhà hàng này có giảm giá 20% vào thứ 4 hàng tuần. 
+data/243.jpg Tôi đặt bàn cho 4 người vào lúc 18:00. 
+data/244.jpg Phim sẽ chiếu tại rạp từ ngày 25/05 - 10/06. 
+data/245.jpg Tôi mua 3 chiếc áo với tổng giá 1.200.000đ. 
+data/246.jpg Trọng lượng của túi hành lý này là 23kg. 
+data/247.jpg Chúng tôi rời khỏi khách sạn lúc 6:45 sáng. 
+data/248.jpg Tôi cần làm 5 bài tập toán và 3 bài tập lý hôm nay. 
+data/249.jpg Xe máy của tôi tiêu thụ 2,5L xăng cho mỗi 100km. 
+data/250.jpg Hạn thanh toán hóa đơn là ngày 20/03.
+data/251.jpg Điều đó không thể chấp thuận
+data/252.jpg Tôi gắn kết với đất nước
+data/253.jpg Mở rộng chi nhánh sang các tỉnh khác
+data/254.jpg Ai sẽ giành được điểm cao nhất trong cuộc chơi này
+data/255.jpg Kỷ nguyên này sẽ kết thúc , kỷ nguyên mới sẽ được mở ra
+data/256.jpg Một số cá nhân có thành tích nổi bật
+data/257.jpg Bom thư phát nổ tại Quốc hội Châu Âu
+data/258.jpg Tính khoảng cách từ nhà bạn đến trường
+data/259.jpg Bạo lực tiếp diễn và không có dấu hiệu ngừng 
+data/260.jpg Người nước ngoài đến Mỹ phải lăn dấu vân tay
+data/261.jpg Mỹ không dỡ bỏ trừng phạt với Trung Quốc
+data/262.jpg Giọng nói trong băng hình như rất quen
+data/263.jpg Hợp tác không quân- quân sự giữa các nước trong khu vực
+data/264.jpg Bí ẩn sau sự khuất phục
+data/265.jpg Bình Nhưỡng ngừng sản xuất vũ khí hạt nhân
+data/266.jpg Tài sản của công ty sẽ bị điều tra
+data/267.jpg Nhân viên không mặc đồng phục sẽ bị phạt 
+data/268.jpg Đại học Quốc gia Hà Nội
+data/269.jpg Thông tin có tại trang cá nhân
+data/270.jpg Sự thật bị chối bỏ
+data/271.jpg Truy tìm nguồn gốc tội phạm
+data/272.jpg Toà sơ thẩm chưa xem xét thoả đáng
+data/273.jpg Tai nạn mới xảy ra buổi chiều tại ngã tư
+data/274.jpg Lý do được phê duyệt
+data/275.jpg Thống kê % hộ dân nghèo khu vực
+data/276.jpg Vùi dấp bằng vết dơ này
+data/277.jpg Họ đều còn rất trẻ
+data/278.jpg Phạm tội bị dư luận lên tiếng
+data/279.jpg Thành công- thất bại - Trì hoãn
+data/280.jpg Năm 1945
+data/281.jpg Con người là 1 phần của lịch sử
+data/282.jpg 2/9, Ngày Quốc Khánh
+data/283.jpg Cải thiện các kỹ năng cần có
+data/284.jpg Tổng hợp từ thành phần có nguồn gốc thiên nhiên
+data/285.jpg Bạo loạn bùng phát ở miền nam Thái Lan
+data/286.jpg Bạn có thể đoán được lựa chọn của tôi chứ
+data/287.jpg Năm học mới , nhiệm kỳ mới 
+data/288.jpg Tinh gọn bộ máy nhà nước
+data/289.jpg Người dân hưởng ứng lệnh Tổng động viên
+data/290.jpg Thực ra , tôi chẳng mấy hy vọng
+data/291.jpg Hãy hỏi xem họ muốn gì
+data/292.jpg Tiếp theo cần làm gì
+data/293.jpg Tranh cãi về bảo vệ môi trường
+data/294.jpg Chứng cứ bị tiêu huỷ không còn dấu vết
+data/295.jpg Họ đã vượt quá giới hạn cho phép
+data/296.jpg Tìm kiếm nạn nhân vụ máy bay rơi
+data/297.jpg Toà nhà Quốc hội Mỹ sơ tán sau cảnh báo
+data/298.jpg Các chất có khả năng gây ung thư
+data/299.jpg Cơ quan lập pháp Mỹ đang trong thời gian nghỉ năm mới
+data/300.jpg Nước ta ban hành luật pháp mới về giao thông
+data/301.jpg Chưa có tổ chức nào đứng ra nhận trách nhiệm
+data/302.jpg Nhớ quá không khí trong nhà
+data/303.jpg Tình Nam duyên Bắc
+data/304.jpg Bản thân có cả ưu và nhược điểm
+data/305.jpg Bản đã thực sự xác định được mục tiêu chưa
+data/306.jpg Trở về Quy Khứ Lai Hề
+data/307.jpg Anh có cả cuộc chơi
+data/308.jpg Ông cho biết thêm
+data/309.jpg 2003- năm nóng nhất của nước ta
+data/310.jpg Tin tức thế giới
+data/311.jpg Luật trong bộ máy hành chính
+data/312.jpg Nâng cao ý thức chấp hành luật an toàn giao thông
+data/313.jpg Có chỗ trú mưa , trú nắng
+data/314.jpg Nhà dột ở nóc vì mưa lớn
+data/315.jpg Triệt phá đường dây tội phạm ở Hà Nội
+data/316.jpg Chương trình xoá đói, giảm nghèo
+data/317.jpg Khủng hoảng kinh tế
+data/318.jpg Các ngành dịch vụ , tái cấu trúc các ngành công nghiệp
+data/319.jpg Với các kỳ thi , cũng là bản chất của kết quả
+data/320.jpg Mãi sau mới hiểu
+data/321.jpg Các đảo nhỏ là 1 phần của biển Đông
+data/322.jpg Tuổi thơ như giấc ngủ
+data/323.jpg Thật sự đau lòng đến thế sao ?
+data/324.jpg Không phải riêng hôm nay mà là quá khứ và tương lai
+data/325.jpg Nụ cười hạnh phúc 
+data/326.jpg Không trưởng thành có được không
+data/327.jpg làm chủ vùng biển
+data/328.jpg Nỗi nhớ chồng chất
+data/329.jpg Có một nơi để về , đó là nhà
+data/330.jpg Thuận lợi , phát triển ngành giáo dục
+data/331.jpg Có vị trí chiến lược quan trọng : nối Thái Bình Dương với Ấn Độ
+data/332.jpg Có ảnh hưởng trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc
+data/333.jpg  Khái quát biển đảo nước ta
+data/334.jpg Một phần biển Đông
+data/335.jpg Thương nhớ là cái gì đó đôi khi thật đơn giản
+data/336.jpg Iran sẽ dựng lại thành cổ Bam
+data/337.jpg Iran cự tuyệt phái đoàn Mỹ
+data/338.jpg Hàn Quốc tức giận thủ tướng Nhật
+data/339.jpg Là trăm hạt mưa rơi
+data/340.jpg phát động chống tham nhũng toàn nước
+data/341.jpg Trở về những ngày đó
+data/342.jpg Tôi biết mình không còn trẻ nữa
+data/343.jpg Tin tức ngày 5/1
+data/344.jpg Đếm ngược thời gian phát sóng
+data/345.jpg Ô nhiễm môi trường
+data/346.jpg Đến lúc phải cố gắng phấn đấu rồi
+data/347.jpg Máy bay gặp nạn :148 người chết
+data/348.jpg Đông Nam Á gồm 17 nước khu vực
+data/349.jpg Bản chất của thất bại là gì
+data/350.jpg Như thế nào gọi là phát triển
+data/351.jpg Có vị trí trung tâm đất nước
+data/352.jpg Phát triển , tồn tại tốt
+data/353.jpg Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển
+data/354.jpg Có tài nguyên sinh vật và khoáng sản phong phú
+data/355.jpg Mục tiêu của bản thân đặt ra là gì
+data/356.jpg Trưởng thành không phải là nhìn thấu mà là nhìn thoáng
+data/357.jpg Cảm nhận hơi ấm từ anh
+data/358.jpg Đoạn này cảm động thật sự
+data/359.jpg Lai châu đẹp và bình yên
+data/360.jpg Thành công của tôi không thể thiếu công của các bạn
+data/361.jpg Trọng lực đẫ bị dồn về phía bánh thấp hơn
+data/362.jpg Có những điều khiến chúng ta được an ủi
+data/363.jpg Tháp rơi tự do
+data/364.jpg Một cách giản dị đến bất ngờ
+data/365.jpg Món ăn mẹ thích nhân ngày 8-3
+data/366.jpg Nghị lực và quyết tâm
+data/367.jpg Món quá quý giá , hạnh phúc đến tận chi tiết
+data/368.jpg Học được cách làm mặt trời của bản thân
+data/369.jpg Cuộc sống này có vui như thế hay không là do bản
+data/370.jpg Thế giới rất công bằng
+data/371.jpg Chỉ là năm tháng thôi
+data/372.jpg Gia đình bà Hà gửi 200.000
+data/373.jpg Ngành biển
+data/374.jpg Chúng tôi chưa kịp làm
+data/375.jpg Xin cảm ơn ngài
+data/376.jpg Ông Dũng đưa 1 tin vui :vài ngày nữa sẽ có lịch nghỉ Tết
+data/377.jpg Vậy thì bạn hãy dành chút thời gian để suy ngẫm
+data/378.jpg Đến bất ngờ
+data/379.jpg Hoàn cảnh để theo đuổi ước mơ từ ngày thuở bé
+data/380.jpg Của thành công
+data/381.jpg Với Châu Âu , Châu Úc với Trung Đông.Giao lưu quốc tế thuận lợi
+data/382.jpg Vùng biển và hải đảo nước ta có vị trí chiến lược quant trọng
+data/383.jpg Chủ nghĩa xã hội , có liên quan đến sự phát triển đất nước
+data/384.jpg văn minh và hạnh phúc của nhân dân
+data/385.jpg Giàu sang hay văn minh , cái nào được mọi người nể phục
+data/386.jpg Quê hương là chùm khế ngọt
+data/387.jpg Ca dao tục ngữ
+data/388.jpg Nhưng đó không phải là thất bại
+data/389.jpg Nhà nào là sống hạnh phúc
+data/390.jpg Quan trọng là họ đã nỗ lực hết sức khẳng định mình
+data/391.jpg Nước ta giáp biển Đông
+data/392.jpg Nước ta giáp với 3 nước bạn
+data/393.jpg Thuận lợi và phát triển ngành biển
+data/394.jpg Khí hậu vùng nhiệt đới tạo điều kiện cho sinh vật phát triển
+data/395.jpg Một phần Biển Đông
+data/396.jpg Đã bao giờ bạn tự hỏi thành công là gì hay chưa?
+data/397.jpg Khái quát lịch sử nước ta
+data/398.jpg Trong đó có 2 quần đảo Hoàng Sa và Trường Sa
+data/399.jpg Những vụ khủng bố và tai nạn trong đêm đón chào năm 2024
+data/400.jpg Thủ tướng Ấn Độ sẽ tới Islamabad để tham dự hội nghỉ thưởng định khu vực
+data/401.jpg Mỹ chưa thay đổi chính sách với Iran
+data/402.jpg Tổng thống Ai Cập bác bỏ tin con trai sẽ lên kế nhiệm
+data/403.jpg Tổng thống Pakstan vượt qua bỏ phiếu tín nhiệm
+data/404.jpg Thủ tướng Đức nhận lời tham dự lễ kỷ niệm D-Day
+data/405.jpg Ông sinh ngày 7/4/1944
+data/406.jpg Đây là búp bê của cháu
+data/407.jpg Chuyến by ngày 2/1 bị huỷ vì lo ngại an ninh
+data/408.jpg Đó là lúc công việc khó khăn của chúng tôi bắt đầu
+data/409.jpg Cảng dầu Alaska đóng cửa vì sợ khủng bố
+data/410.jpg Tin tức ngày hôm nay
+data/411.jpg Việt Nam tiếp nhận chức chủ tịch EU
+data/412.jpg Bắc Triều Tiên cho phép Mỹ thăm nhà máy hạt nhân
+data/413.jpg Chuyến BA 263 từ London đi Mỹ bị huỷ bỏ
+data/414.jpg 6 chuyến bay ngyaf 24/12 bị huỷ bỏ
+data/415.jpg Chuyến BA 266 từ Nhật Bản về Việt Nam bị dời lịch
+data/416.jpg Nhà Trắng lạnh nhạt với chuyến đi Bình Nhưỡng
+data/417.jpg Dự kiến tăng 30% sản lượng nông nghiệp
+data/418.jpg Tin tức bóng đá ngày 5/3
+data/419.jpg Băng cướp bằng thuốc mê liên tỉnh miền Trung lĩnh án tù
+data/420.jpg Kê biên tiền bán cổ phiếu của công ty để thi hành án
+data/421.jpg Ô tô chở hàng lậu chèn chết 2 nhân viên quản lý thị trường
+data/422.jpg Công ty đang điều tra nội bộ nhân viên
+data/423.jpg Trình duyệt tích hợp tính năng chống virut
+data/424.jpg Nỗ lực marketing hiếm hoi
+data/425.jpg Tìm kiếm 1 cách tự động
+data/426.jpg Dung lượng :1,59MB
+data/427.jpg Bạn sẽ được chơi thêm 1 lần nữa
+data/428.jpg An toàn bảo mật cho người
+data/429.jpg Không chỉ trong thế giới ảo , 1 số công ty còn đang sử dụng web giúp bố mẹ quản lý con cái
+data/430.jpg Đặt giáo dục lên trên , là nhiệm vụ hàng đầu
+data/431.jpg Chú ý nên dựng đứng bàn phím khi quét
+data/432.jpg Hình ảnh vệ tinh
+data/433.jpg Đặt bàn phím trên một mặt phẳng
+data/434.jpg Hình ảnh đêm giao thừa trên khắp thế giới
+data/435.jpg Màn pháo hoa trứ danh bên cầu cảng ở thành phố Sydney
+data/436.jpg Một người được cứu sống sau 6 ngày động đất xảy ra
+data/437.jpg Thảm hoạ động đất ở Iran
+data/438.jpg Khoảng 50.000 người thiệt mảng
+data/439.jpg Nhân viên cứu hộ quốc tế rút khỏi Iran
+data/440.jpg Hoa đẹp ai chẳng muốn hái , hoa tàn có cho chẳng nhận
+data/441.jpg Chín trường hợp được xác định chưa có điều kiện thi hành án
+data/442.jpg Công việc của bản như thế nào
+data/443.jpg Chứng minh nhân dân của bản
+data/444.jpg Giấy tờ chứng minh nhà ở hợp pháp
+data/445.jpg Điều 443 Bộ luật Dân sự
+data/446.jpg Vì ngoài đời chẳng có ai đợi ai lâu
+data/447.jpg Giả làm cảnh sát chữa cháy , gây rối ở Tràng Tiền plaza
+data/448.jpg Vì một từ nhân duyên
+data/449.jpg Theo chân công an đi bắt ma
+data/450.jpg Còn 19 nạn nhân nằm viện
+data/451.jpg Số người tử vong trong vụ nổ ô tô :20
+data/452.jpg Phát hiện hai xưởng cưa trộm gỗ
+data/453.jpg Bại Giáng nghĩa là đầu hàng
+data/454.jpg Cho xe quả tải qua trạm , bị kỷ luật
+data/455.jpg Khu đô thị thương mại
+data/456.jpg Bộ Công an ra quyết định cuối cùng
+data/457.jpg Tin tức ngày 5/1
+data/458.jpg Phát tán ảnh khoả thân của chủ nợ
+data/459.jpg Người Lao Động
+data/460.jpg Nhiều vị phạm trong hoạt động luật sư
+data/461.jpg Tuổi trẻ
+data/462.jpg Tóm gọn tội phạm
+data/463.jpg Phạt từ nữ giám đốc vi phạm
+data/464.jpg Một thư ký toà bị lập biên bản
+data/465.jpg Phát triển tốt , sản xuất tốt
+data/466.jpg Độc lập , tự do , Hạnh phúc
+data/467.jpg Hạnh phúc của nhân dân
+data/468.jpg sông , nước và đất liền
+data/469.jpg Chuẩn bị lựa chọn doanh nghiệp FDI cổ phần hoá
+data/470.jpg Ông thắng cho biết
+data/471.jpg Có 1km bờ biển
+data/472.jpg Đô thị mới
+data/473.jpg Thuộc ngành biển
+data/474.jpg Giản dị đến bất ngờ
+data/475.jpg Biển Đông
+data/476.jpg Tình đầu quốc dân
+data/477.jpg Tạm biệt Hà Nội
+data/478.jpg Nhiều sai phạm tại sự án đô thị mới 
+data/479.jpg Giá dần tăng mạnh
+data/480.jpg Phân bón thiếu hệ thống phân phối
+data/481.jpg Khủng hoảng kinh tế
+data/482.jpg Bạn có lường trước được điều này không
+data/483.jpg Hầu hết làng nghề thiếu thông tin thị trường
+data/484.jpg Nhật Bản tiếp tục hỗ trợ Việt Nam phát triển kinh tế
+data/485.jpg Xuất khẩu sang EU sẽ khó khăn hơn
+data/486.jpg Nigeria cấm nhập nhẩu dệt may
+data/487.jpg 19 tỷ cho dự án thuỷ sản
+data/488.jpg Giá cả tăng đột biến
+data/489.jpg Siêu thị tại Hà Nội ráo riết bán hàng
+data/490.jpg Thành công ấy , liệu có mấy người đạt được
+data/491.jpg Tồn tại tốt
+data/492.jpg Mục đích của việc học
+data/493.jpg Rừng , nơi ít con người sinh sống
+data/494.jpg Ngày xửa ngày xưa
+data/495.jpg Làm việc ở đó
+data/496.jpg Định nghĩa là gì
+data/497.jpg Bản chât của thành công
+data/498.jpg Xin tên web ạ
+data/499.jpg Phòng phát triển trong xu thế hiện nay
+data/500.jpg Đốc thúc ký hợp đồng đại lý xăng dầu
+data/501.jpg đồng đi bắt cá. Bà	
+data/502.jpg mình rồi chạy về nhà trước.
+data/503.jpg mẹ dặn: "Hễ đứa nào
+data/504.jpg sẽ được thưởng". Tấm
+data/505.jpg Ngày xửa ngày xưa
+data/506.jpg bắt được nhiều cá hơn
+data/507.jpg vâng lời dặn của mẹ
+data/508.jpg cá, chẳng chốc mà giỏ
+data/509.jpg có hai chị em cùng cha khác mẹ
+data/510.jpg chăm chỉ siêng năng bắt
+data/511.jpg tên là Tấm và Cám. Mẹ
+data/512.jpg cá đã đầy, còn Cám
+data/513.jpg mải rong chơi nên đã
+data/514.jpg cá của Tấm vào giỏ
+data/515.jpg Tấm mất sớm, còn cha Tấm
+data/516.jpg cưới thêm mẹ Cám, cha
+data/517.jpg thương cô, nhưng rồi ông
+data/518.jpg con nào. Thấy chị Tấm
+data/519.jpg bắt được nhiều cá, Cám
+data/520.jpg qua đời. Tấm phải sông
+data/521.jpg mới nảy ra ý định
+data/522.jpg chung với dì ghẻ là mẹ của Cám.
+data/523.jpg nghiệt, hằng ngày bắt Tấm
+data/524.jpg Bà mẹ ghẻ là người cay 
+data/525.jpg bảo Tấm đi tắm đi. Tin
+data/526.jpg lời em mình nên Tắm
+data/527.jpg để giỏ cá nhờ
+data/528.jpg phải làm hết mọi công
+data/529.jpg việc trong nhà còn Cám
+data/530.jpg gội đầu. Trên bờ Cám
+data/531.jpg em coi, lội xuống ao
+data/532.jpg vẫn chưa bắt được
+data/533.jpg thì ngược lại được lêu lổng
+data/534.jpg vui chơi tối ngày.
+data/535.jpg xế chiều rồi mà Cám
+data/536.jpg Một hôm bà mẹ bảo hai
+data/537.jpg chị em Tấm và Cám ra
+data/538.jpg bệnh nặng, không lâu sau đó thì
+data/539.jpg Tấm vô cùng hết mực yêu
+data/540.jpg đã trút hết giỏ
+data/541.jpg xẻng to xúc sỉ than
+data/542.jpg chua cay mặn ngọt
+data/543.jpg đang ỉa lăn ra ngủ
+data/544.jpg quác quạc quác quác
+data/545.jpg vịt có hai cái cánh
+data/546.jpg Khi Tấm bước lên
+data/547.jpg bờ thì giỏ cá không
+data/548.jpg siêu cấp đẹp trai
+data/549.jpg lên hỏi: "Tại sao
+data/550.jpg còn. Tấm ngồi khóc
+data/551.jpg đột nhiên ông Bụt hiện
+data/552.jpg nức nở thì bỗng
+data/553.jpg tìm xem trong giỏ
+data/554.jpg cho ông Bụt nghe,
+data/555.jpg khóc?". Tấm kể
+data/556.jpg hết sự tình xảy ra
+data/557.jpg mới cất lời: "Nín".
+data/558.jpg con cá bống. Ông bụt
+data/559.jpg Nói xong bụt
+data/560.jpg biến mất. Tấm nghe
+data/561.jpg lời bụt dặn đem Bống
+data/562.jpg về bỏ xuống
+data/563.jpg đem cơm cho bống ăn
+data/564.jpg giếng nuôi, mỗi ngày
+data/565.jpg Hai bát cơm thì
+data/566.jpg dành một bát lại cho cá Bống.
+data/567.jpg Tấm chỉ ăn một, để
+data/568.jpg sau, cá Bống đã lớn
+data/569.jpg Chẳng bao lâu
+data/570.jpg nhanh như thổi. Thấy Tấm ngày
+data/571.jpg ra giếng, dì ghẻ mới
+data/572.jpg đem lòng sinh nghi, sai
+data/573.jpg ngày đem cơm
+data/574.jpg Cám rình xem
+data/575.jpg hết mọi chuyện cho mẹ biết
+data/576.jpg thế nào. Cám về kể
+data/577.jpg Sáng ngày hôm
+data/578.jpg đi chăn trâu ở đồng xa
+data/579.jpg sau mẹ ghẻ cho Tấm
+data/580.jpg còn con nào không thì
+data/581.jpg ông bụt bảo Tấm
+data/582.jpg còn duy nhất một
+data/583.jpg bà ngọt ngào dặn Tấm rằng
+data/584.jpg Con ơi, đồng làng mình cấm
+data/585.jpg Tấm nghe lời mẹ nên
+data/586.jpg mẹ con cám ra giếng gọi y
+data/587.jpg dẫn trâu đi thật xa. Ở nhà
+data/588.jpg như Tấm hay gọi mỗi ngày,
+data/589.jpg cá nghe tiếng trồi lên miệng giếng,
+data/590.jpg hai mẹ con Cám bắt bống đem
+data/591.jpg trâu về, Tấm đem cơm ra giếng
+data/592.jpg làm thịt. Đến chiều chăn
+data/593.jpg kêu mà không thấy Bống lên,
+data/594.jpg chỉ thấy nổi lên một cục
+data/595.jpg máu đỏ. Thấy vậy Tấm ngồi khóc
+data/596.jpg nức nở, Bụt hiện lên và hỏi
+data/597.jpg "Làm sao khóc?" Tấm lại
+data/598.jpg mới bảo: "Về lượm xương cá
+data/599.jpg kể hết cho Bụt nghe, lúc này Bụt
+data/600.jpg chôn dưới bốn chân giường."
+data/601.jpg bỏ vào bốn cái hũ
+data/602.jpg Tấm nghe lời vào nhà tìm xương
+data/603.jpg thấy đâu. Bỗng có con gà ở
+data/604.jpg bống, nhưng tìm mãi không
+data/605.jpg đâu chạy ra: "Cục tác cho thóc
+data/606.jpg thóc cho gà ăn, gà vào trong
+data/607.jpg bới xương". Tấm lấy nắm
+data/608.jpg bếp, bới đống tro ra thì thấy xương
+data/609.jpg bống ở đó. Tấm nhặt
+data/610.jpg lấy đem bỏ vào bốn lọ chôn
+data/611.jpg vua mở hội, mọi người
+data/612.jpg bốn chân giường. Ít lâu sau nhà
+data/613.jpg nô nức đi xem hội. Mẹ con
+data/614.jpg xin mẹ cho đi xem cùng
+data/615.jpg Cám chuẩn bị đi từ rất sớm. Tấm
+data/616.jpg thì dì ghẻ trộn thóc với gạo
+data/617.jpg rồi bắt Tấm ngồi nhặt, khi nào nhặt
+data/618.jpg xong thì mới được đi xem
+data/619.jpg hội. Tấm lại khóc nức nở
+data/620.jpg Tấm kể rõ sự tình cho
+data/621.jpg Bụt lại hiện lên và hỏi: "Sao Khóc?"
+data/622.jpg Bụt nghe, Bụt sai một đàn
+data/623.jpg một loáng đã xong. Nhưng 
+data/624.jpg chim sẻ xuống nhặt cho Tấm, chỉ
+data/625.jpg Tấm không có quần áo
+data/626.jpg đẹp đi xem hội, thế là cô lại ôm mặt khóc
+data/627.jpg Bụt lại hiện lên và hỏi sao khóc
+data/628.jpg xa, chớ chăn trâu đồng nhà mình mà mất trâu.
+data/629.jpg trâu thì chăn trâu đồng
+data/630.jpg trăn châu. Con đi chăn
+data/631.jpg Bút đáp: "Đào hũ đã chôn lên"
+data/632.jpg đào lên. Hũ thứ nhất mở ra là
+data/633.jpg thứ ba là một con ngựa
+data/634.jpg hũ thứ hai mở ra là
+data/635.jpg một đôi giày thêu rất đẹp, hũ
+data/636.jpg khi đặt xuống đất, con ngựa
+data/637.jpg nhỏ xíu, nhưng kì lạ là
+data/638.jpg bỗng chốc biến thành ngựa
+data/639.jpg yên cương vững chắc. Tấm
+data/640.jpg thật, hũ cuối cùng là một
+data/641.jpg Hiến kinh. Ngựa phóng
+data/642.jpg thay đồ rồi lên đường
+data/643.jpg vui mừng khôn xiết, vội 	
+data/644.jpg đường đi qua chỗ lội.
+data/645.jpg thành, nhưng chẳng may trên
+data/646.jpg Tấm đã vô tình đánh
+data/647.jpg một lúc đã tới kinh
+data/648.jpg rơi một chiếc giày không
+data/649.jpg kịp nhặt. Đến hội Tấm
+data/650.jpg lấy khăn gói chiếc giày
+data/651.jpg còn lại và chen vàc biển
+data/652.jpg người. Giữa lúc ấy, đoàn
+data/653.jpg quân hộ tống nhà vua đi
+data/654.jpg rơi mất giày, hai con voi
+data/655.jpg qua chỗ lầy mà Tấm đánh
+data/656.jpg , không chịu đi, vua cho
+data/657.jpg ngự đầu đàn cứ cắm đầu xuống
+data/658.jpg ra được một chiếc giày, nhà vua
+data/659.jpg lính xem xét thì tìm
+data/660.jpg đẹp thì người đẹp."
+data/661.jpg chiếc giày thì sẽ lấy về làm vợ.
+data/662.jpg đưa lên ngắm nghía: "Giày
+data/663.jpg Nhà vua ra lệnh cho tất cả đàn
+data/664.jpg bà con gái đi trẩy hội
+data/665.jpg Ai cũng nô nức đến thử giày
+data/666.jpg thử giày, nếu ai đi vừa
+data/667.jpg nhưng không một ai vừa,
+data/668.jpg nhưng không được, đến lượt Tấm
+data/669.jpg mẹ con Cám cũng qua thử
+data/670.jpg Tấm sụt sùi: "Quần áo rách sao đi"
+data/671.jpg Tấm nghe lời vào
+data/672.jpg một bộ váy đẹp rực rỡ,
+data/673.jpg dì ghẻ mới bĩu môi: "Chuông khánh
+data/674.jpg còn chẳng ăn ai. Nữa là
+data/675.jpg mảnh chĩnh mảnh chai bờ rào"
+data/676.jpg Nhưng trái lại, khi Tấm thử giày,
+data/677.jpg chiếc thứ hai đang cầm trong tay
+data/678.jpg khôn xiết, vội cho người rước
+data/679.jpg chiếc giày vừa như in, nàng đưa nốt
+data/680.jpg reo hò, nhà Vua thấy thế thì mừng
+data/681.jpg mẹ con Cám giận lắm,
+data/682.jpg vua về nhà để làm giỗ.
+data/683.jpg Thấy Tấm về mẹ con Cám sẵn
+data/684.jpg mưu giết Tấm:
+data/685.jpg "Nay là ngày giỗ cha con, con
+data/686.jpg bụng không ưa nên đã bày
+data/687.jpg hãy chèo lên cây cau hái xuống
+data/688.jpg cúng cha". Tấm vâng lời trèo lên
+data/689.jpg cây cau thì ở dưới bà mẹ ghẻ
+data/690.jpg đốn gốc, Tấm thấy cây rung
+data/691.jpg rung mới hỏi dì làm gì thế
+data/692.jpg Dì ghẻ trả lời chặt bớt kiến
+data/693.jpg mẹ ghẻ đem quần áo của Tấm cho
+data/694.jpg Tấm ngã xuống ao chết chìm. Bà
+data/695.jpg Cám mặc về cung nói dối
+data/696.jpg với vua rằng thế chỗ Tấm.
+data/697.jpg lời nào. Tấm chết đi biến thành
+data/698.jpg con chim Vàng Anh, bay vào
+data/699.jpg Nhà vua giận dữ nhưng không nói
+data/700.jpg áo cho nhà vua, bỗng nghe tiếng hót:
+data/701.jpg nàng về cung. Từ ngày đó
+data/702.jpg cung vua. Một lần Cám đang giặt
+data/703.jpg thì đúng là một đôi, quân lính
+data/704.jpg nhân ngày giỗ cha, Tấm xin phép nhà
+data/705.jpg Cám nghe thấy thế sợ lắm, Vàng Anh
+data/706.jpg "Giặt áo chồng tao thì giặt cho sạch.
+data/707.jpg ở trong cung thì hót líu lo, nhà Vua đi
+data/708.jpg quyến luyến theo mình Vua bảo: "Vàng
+data/709.jpg đâu Vàng Anh bay theo đó, thấy chim
+data/710.jpg ảnh vàng anh, có phải vợ anh,
+data/711.jpg chui vào tay áo
+data/712.jpg nhà vua chỉ chăm lo cho chim, làm
+data/713.jpg vua biết được chuyện thì giận lắm
+data/714.jpg Góc vườn chỗ chôn lông chim Vàng Anh
+data/715.jpg tiếng khung cửi kêu: "Tranh chồng
+data/716.jpg nhà vua thấy vậy bèn mắc võng
+data/717.jpg Cám lại xúi chặt hai cây xoan
+data/718.jpg có một bà cụ đi chợ qua, ngồi
+data/719.jpg sai người mang khung cửi đi đốt,
+data/720.jpg cành lá xanh tốt um tùm, nhưng
+data/721.jpg bị của bà. Bà đem về nhà để trên gối
+data/722.jpg quả thị bà mới ngỏ: "Ngửi không ăn"
+data/723.jpg bà ra chợ, về đến nhà là cơm nước
+data/724.jpg nửa đường bà lại quay về. Bà
+data/725.jpg mấy ngày như vậy, bà sinh nghi.
+data/726.jpg thấy một cô gái chui ra từ
+data/727.jpg quả thị, dọn dẹp nhà cửa, bà vội vàng
+data/728.jpg rồi chui vào tay áo. Từ ngày đó
+data/729.jpg cho chim một cái chuồng bằng vàng,
+data/730.jpg nhà hỏi ý mẹ, bà mẹ ghẻ xúi
+data/731.jpg mang đem chôn vào góc vườn, nhà
+data/732.jpg ra nằm nghỉ ngơi. Cám lại về
+data/733.jpg mọc ra hai cây xoan đào tỏa bóng xum xuê
+data/734.jpg kể chuyện với mẹ, mẹ
+data/735.jpg đi làm khung cửi, một lần
+data/736.jpg từ đống tro mọc lên một cây thị
+data/737.jpg ngồi dệt áo cho nhà vua, nghe
+data/738.jpg khoét mắt". Cám vô cùng sợ hãi vội
+data/739.jpg lại chỉ có một quả. Một buổi nọ,
+data/740.jpg Bà lão nói xong thị rụng vào
+data/741.jpg nghỉ dưới gốc cây, thấy
+data/742.jpg chỉ ngửi mà không ăn. Hằng ngày
+data/743.jpg đã tinh tươm, nhà cửa sạch sẽ,
+data/744.jpg Một lần bà giả vờ đi chợ, nhưng đi đến
+data/745.jpg đứng bên ngoài cửa nhìn vào thì
+data/746.jpg Cám thấy thế tức lắm về
+data/747.jpg Chim bay đến đậu trên tay nhà vua
+data/748.jpg ngày ngày chăm sóc chim.
+data/749.jpg Cám bắt chim ăn thịt, lông chim
+data/750.jpg Bỗng thấy mình quá đẹp trai
+data/751.jpg trời mưa thì ướt
+data/752.jpg đứng yên không đi
+data/753.jpg cái gì mất đi thì không còn nữa
+data/754.jpg nếu bạn không ăn , bạn sẽ đói
+data/755.jpg một ly nước đầy không thể rót thêm
+data/756.jpg gió thổi thì mát
+data/757.jpg nước chảy không đứng yên
+data/758.jpg Không có xe thì đi bộ
+data/759.jpg Mặt trời không biết lạnh
+data/760.jpg Cát nhỏ nhưng nhiều thì đầy
+data/761.jpg lá xanh rồi cũng rụng
+data/762.jpg Đáy biển không thấy mặt trời
+data/763.jpg Mưa xuống thì ướt đường
+data/764.jpg Đứng dưới mưa thì lạnh
+data/765.jpg lửa cháy thì sáng
+data/766.jpg một trang giấy trắng chưa có chữ
+data/767.jpg bụi nhỏ nhưng nhiều thì dày
+data/768.jpg đứng dưới nắng thì nóng
+data/769.jpg không bấm thì nút không hoạt động
+data/770.jpg cây mọc lên trời
+data/771.jpg bầu trời thì không có đáy
+data/772.jpg tay không cầm được sương
+data/773.jpg trời lạnh thì co ro
+data/774.jpg mưa không có mùi
+data/775.jpg đá không có cánh
+data/776.jpg trời thì trong xanh
+data/777.jpg gió thổi qua tai
+data/778.jpg nước chảy xuống thấp
+data/779.jpg cái bóng không có tiếng
+data/780.jpg sông chảy ra biển
+data/781.jpg cát mềm hơn đá
+data/782.jpg Biển sâu không đo hết
+data/783.jpg Sông dài có nguồn
+data/784.jpg Gió mạnh thì thổi bay
+data/785.jpg Trời xanh vì không có mây
+data/786.jpg Bụi bay theo gió
+data/787.jpg Không có trời thì không có mưa
+data/788.jpg Trăng mọc ban đêm
+data/789.jpg Lá non màu xanh
+data/790.jpg Không có đất thì không có cây
+data/791.jpg Nước trong thì thấy cá
+data/792.jpg Mây bay không có hình cố định
+data/793.jpg Trắng tròn rồi lại khuyết
+data/794.jpg Đất cứng , nước mềm
+data/795.jpg không cười thì mặt nghiêm
+data/796.jpg Mưa dầm thì ngập
+data/797.jpg gió không có chân
+data/798.jpg đêm dài hơn ngày vào mùa đông
+data/799.jpg Lá rụng báo hiệu mùa thu
+data/800.jpg Cây cao thì gió lay mạnh
+data/801.jpg Sông không chảy ngược
+data/802.jpg bóng không đi trước người
+data/803.jpg muốn bay thì cần cánh
+data/804.jpg Đá rơi nhanh hơn lá
+data/805.jpg Mặt trời mọc rồi lại lặn
+data/806.jpg Càng đi xa càng xa
+data/807.jpg Không đứng thì ngồi
+data/808.jpg Nước đọng thì không chảy
+data/809.jpg mưa lớn thì sấm chớp
+data/810.jpg Đường trơn thì dễ ngã
+data/811.jpg Nước sôi thì bốc hơi
+data/812.jpg Không có lửa thì không có khói
+data/813.jpg Nước chảy về chỗ trũng
+data/814.jpg Đêm đen không thấy đường
+data/815.jpg Gió thổi không có hình
+data/816.jpg Biển không có bờ thì rộng
+data/817.jpg không leo thì không cao
+data/818.jpg Đá cứng hơn đất
+data/819.jpg Mưa không có chân
+data/820.jpg Một hòn đá không làm núi
+data/821.jpg Nước lạnh thì mát
+data/822.jpg biển mặn hơn sông
+data/823.jpg Mây không biết dừng
+data/824.jpg Càng cao càng xa đất
+data/825.jpg Trời lạnh thì rét
+data/826.jpg Lá rụng không bay lên
+data/827.jpg Gió mạnh thì sóng cao
+data/828.jpg Một giọt nước không làm nên biển
+data/829.jpg Cây non dễ gãy
+data/830.jpg Đèn sáng thì nhìn rõ
+data/831.jpg Không đi thì đứng yên
+data/832.jpg Nước chảy nhanh thì cuốn trôi
+data/833.jpg Cát khô thì không dính
+data/834.jpg Đá cứng hơn bùn
+data/835.jpg Mưa đêm thì khó thấy
+data/836.jpg Gió qua thì mát
+data/837.jpg Sông không có nước thì khô
+data/838.jpg Đáy giếng không thấy trời
+data/839.jpg Biển xanh vì nước
+data/840.jpg Không có gió thì không bay được diều
+data/841.jpg Trắng sáng thì đêm đẹp
+data/842.jpg Bụi nhỏ nhưng làm cay mắt
+data/843.jpg Nắng to thì nóng 
+data/844.jpg Đất ướt thì mềm
+data/845.jpg Cây xanh thì tươi
+data/846.jpg Nước chảy mãi không cạn
+data/847.jpg Mặt trời không rơi xuống
+data/848.jpg Biển rộng thì khó qua
+data/849.jpg Đá lạnh vì không - giữ nhiệt
+data/850.jpg gió lạnh thì rét
+data/851.jpg Không có núi thì không thể leo
+data/852.jpg Mưa ít thì không ngập
+data/853.jpg Đường dài thì đi - lâu
+data/854.jpg Càng xa thì càng khó gặp
+data/855.jpg Không ngắm thì không thấy đẹp
+data/856.jpg gió nhẹ thì mát
+data/857.jpg đêm có sao thì sáng
+data/858.jpg không đi thì không biết đường
+data/859.jpg cát không chảy - như nước
+data/860.jpg Nước trong thì mát
+data/861.jpg Không có tay thì không nắm được
+data/862.jpg Mây bay không dừng
+data/863.jpg Đá không mọc được cây
+data/864.jpg Biển không có giới hạn
+data/865.jpg Mưa rơi vì nặng
+data/866.jpg Không trèo thì không ngã
+data/867.jpg Càng nhìn lâu càng thấy nhiều
+data/868.jpg Mưa ít thì - khô nhanh
+data/869.jpg Càng lên cao càng khó thở
+data/870.jpg không thở thì không sống 
+data/871.jpg Gió thổi thì bay
+data/872.jpg Nước lặng thì trong
+data/873.jpg Đêm dài thì lâu sáng
+data/874.jpg Cây khô thì dễ gãy
+data/875.jpg Nước sôi thì nóng
+data/876.jpg Không ngủ thì mệt
+data/877.jpg càng lên cao càng lạnh
+data/878.jpg Mặt trời không biết tắt
+data/879.jpg Mưa rơi xuống, không bay lên
+data/880.jpg không đi thì không mỏi
+data/881.jpg Bóng tối che khuất mọi thứ
+data/882.jpg biển sâu không thấy đáy
+data/883.jpg một giọt nước không làm biển đầy
+data/884.jpg không lửa thì không có khói
+data/885.jpg trời xanh vì không mây
+data/886.jpg đèn sáng thì không tối
+data/887.jpg mặt trời không mọc ban đêm
+data/888.jpg cây không có rễ thì không đứng vững
+data/889.jpg đá rơi xuống thì không bay lên
+data/890.jpg không có mưa thì không ướt
+data/891.jpg gió mạnh thì sóng cao
+data/892.jpg Không thở thì không sống
+data/893.jpg mặt trăng tròn rồi lại khuyết
+data/894.jpg Đáy giếng không thấy trời
+data/895.jpg Mưa làm đất ướt
+data/896.jpg càng xa càng khó để gặp
+data/897.jpg bóng tối không có hình dạng
+data/898.jpg Nước không màu nhưng phản chiếu màu sắc
+data/899.jpg đèn hỏng thì tối
+data/900.jpg nước chảy về chỗ thấp
+data/901.jpg lá rụng báo hiệu mùa thay đổi
+data/902.jpg gió lạnh làm người ta run
+data/903.jpg không đi thì không lạc
+data/904.jpg mây không có hình dạng cố định
+data/905.jpg không có bóng tối thì không thấy ánh sáng
+data/906.jpg một hạt cát nhỏ nhưng nhiều thành sa mạc
+data/907.jpg cây cao thì gió lay mạnh
+data/908.jpg đá cứng hơn nước
+data/909.jpg đèn đỏ thì dừng
+data/910.jpg sương mù che khuất tầm nhìn
+data/911.jpg Cây mọc lên trời
+data/912.jpg Mây che mất mặt trời
+data/913.jpg Gió không có chân nhưng đi xa
+data/914.jpg biển xanh vì nước
+data/915.jpg Một ngọn nến nhỏ cũng tỏa sáng
+data/916.jpg Càng cao càng gần trời
+data/917.jpg Mây trắng bay trên trời
+data/918.jpg Trăng sáng nhờ mặt trời
+data/919.jpg không có đường thì khó đi
+data/920.jpg Gió không có hình nhưng có sức mạnh
+data/921.jpg một ngày không mặt trời thì âm u
+data/922.jpg mặt trời không có bóng
+data/923.jpg đá không biết bơi
+data/924.jpg không có lửa thì không cháy
+data/925.jpg mặt trời không tự sáng
+data/926.jpg nước lặng thì phản chiếu rõ
+data/927.jpg gió thổi không để lại dấu vết
+data/928.jpg bóng đêm không có tiếng
+data/929.jpg mặt trời lên thì sáng
+data/930.jpg sông chảy không - ngừng
+data/931.jpg Biển không có giới hạn
+data/932.jpg không có xe thì đi bộ
+data/933.jpg mây bay không dừng
+data/934.jpg bụi nhỏ làm cay mắt
+data/935.jpg đá không tự di chuyển
+data/936.jpg gió lạnh thì rét
+data/937.jpg không có núi thì không leo
+data/938.jpg mưa ít thì không ngập
+data/939.jpg đường dài thì đi lâu
+data/940.jpg càng xa càng ít gặp
+data/941.jpg Gió nhẹ thì mát
+data/942.jpg không trèo thì không ngã
+data/943.jpg Bóng không có trọng lượng
+data/944.jpg cát mềm hơn đá
+data/945.jpg Sông dài có nguồn
+data/946.jpg gió mạnh thì cuốn bay lá
+data/947.jpg Trời lạnh thì co ro
+data/948.jpg nước đục thì khó nhìn
+data/949.jpg không đi thì không biết đường
+data/950.jpg một viên đá không làm núi
+data/951.jpg một cơn sóng có thể thay đổi bờ biển
+data/952.jpg lá non màu xanh
+data/953.jpg Biển mặn hơn sông
+data/954.jpg Mưa không có chân
+data/955.jpg Càng đi xa thì càng xa
+data/956.jpg Mặt trời không bao giờ nghỉ
+data/957.jpg Đèn sáng thì không tối
+data/958.jpg Nước trong thì nhìn thấy đáy
+data/959.jpg Thức khuya thì mệt
+data/960.jpg một giọt nước không làm đầy ly
+data/961.jpg ko ngắm thì x ko thây đẹp
+data/962.jpg đá không mọc ở trên cây
+data/963.jpg biển rộng thì khó qua
+data/964.jpg nắng to thì nóng
+data/965.jpg đáy biển không thấy mặt trời
+data/966.jpg đèn sáng thì thấy rõ
+data/967.jpg không có nước thì khát
+data/968.jpg ko có sông thì ko có cá
+data/969.jpg trăng mọc ban đêm
+data/970.jpg gió không màu nhưng có thể cảm nhận
+data/971.jpg mưa xuống thì đất ướt
+data/972.jpg ko có lửa thì ko nóng
+data/973.jpg gió lớn thì cây nghiêng
+data/974.jpg đêm tối thì khó nhìn
+data/975.jpg trời trong thì thấy mây
+data/976.jpg ko có chân thì ko đi được
+data/977.jpg mặt trời lên thì ngày bắt đầu
+data/978.jpg cát khô thì dễ bay
+data/979.jpg sương sớm làm lá ướt
+data/980.jpg nước lạnh thì không bốc hơi
+data/981.jpg mưa nhỏ thì lâu tạnh
+data/982.jpg một viên đá ko làm nên núi
+data/983.jpg trời nắng thì chói
+data/984.jpg ko có mây thì trời trong
+data/985.jpg càng leo cao càng khó thở
+data/986.jpg bóng ko thể cầm nắm
+data/987.jpg ko đi thì ko lạc
+data/988.jpg mây bay không có điểm dừng
+data/989.jpg gió thổi qua không để lại dấu vết
+data/990.jpg biển ko có bờ ko thể đo
+data/991.jpg đá cứng hơn bùn
+data/992.jpg biển sâu thì khó đo
+data/993.jpg gió nhẹ thì dễ chịu
+data/994.jpg ko có trời thì ko có mưa
+data/995.jpg một giọt nước không làm đầy hồ
+data/996.jpg ko nhìn thì ko thấy
+data/997.jpg đường xa thì đi lâu
+data/998.jpg ko có đất thì ko có cây
+data/999.jpg lửa cháy thì fát sáng
+data/1000.jpg gió mạnh thì có bão
+data/1001.jpg Hôm nay là ngày 14/03/2025. 
+data/1002.jpg Tôi có 3 quyển sách mới. 
+data/1003.jpg Email của tôi là abc_xyz@gmail.com. 
+data/1004.jpg Số điện thoại: 0987-654-321. 
+data/1005.jpg Trời mưa to quá! 
+data/1006.jpg Đừng quên mang ô nhé. 
+data/1007.jpg Bạn có thể gọi cho tôi lúc 8:30 sáng. 
+data/1008.jpg Hẹn gặp nhau tại quán cà phê A&B. 
+data/1009.jpg Giá của sản phẩm này là 199.000 VNĐ. 
+data/1010.jpg Cửa hàng mở cửa từ 9h - 21h hằng ngày. 
+data/1011.jpg Chúng tôi có chương trình giảm giá 50%. 
+data/1012.jpg Tài khoản: user_12345. 
+data/1013.jpg Mật khẩu: P@ssw0rd! 
+data/1014.jpg Địa chỉ: 20B, đường Lê Lợi, Hà Nội. 
+data/1015.jpg Thời gian bay: 10:45 AM - 1:30 PM. 
+data/1016.jpg Xe buýt số 07 sẽ đến trong 5 phút. 
+data/1017.jpg Nhiệt độ hôm nay là 27°C. 
+data/1018.jpg Bạn có thể tìm thấy nó trên www.example.com. 
+data/1019.jpg Mã đơn hàng của bạn là #A1B2C3. 
+data/1020.jpg Cảnh báo: Không được hút thuốc! 
+data/1021.jpg Hãy nhập mã OTP: 678912. 
+data/1022.jpg Đơn hàng của bạn đã được xác nhận. 
+data/1023.jpg Vui lòng cập nhật hồ sơ cá nhân. 
+data/1024.jpg Xin lỗi, tôi đến trễ 15 phút. 
+data/1025.jpg Đăng nhập thất bại, vui lòng thử lại. 
+data/1026.jpg Chúc mừng bạn đã hoàn thành nhiệm vụ! 
+data/1027.jpg Hôm nay là thứ Sáu, ngày 13. 
+data/1028.jpg Hãy gửi báo cáo trước 5:00 PM. 
+data/1029.jpg Đặt vé máy bay tại website: www.fly.vn. 
+data/1030.jpg Anh ấy sinh năm 1998, còn tôi sinh năm 2002.
+data/1031.jpg Vé xem phim của tôi là ghế B12. 
+data/1032.jpg Chuyến tàu SE7 sẽ khởi hành lúc 06:15. 
+data/1033.jpg Hóa đơn tháng này: 1.250.000 VNĐ. 
+data/1034.jpg Số dư tài khoản: 5,678,900 VNĐ. 
+data/1035.jpg Tôi đặt bàn lúc 19h tại nhà hàng Gogi. 
+data/1036.jpg Mã giảm giá: SAVE20. 
+data/1037.jpg Xin vui lòng chờ trong giây lát! 
+data/1038.jpg Sự kiện diễn ra từ 10h - 14h ngày 25/04. 
+data/1039.jpg Kết quả xổ số hôm nay: 123456. 
+data/1040.jpg Chúng tôi có hỗ trợ trả góp 0%. 
+data/1041.jpg ID tài khoản: user9876. 
+data/1042.jpg Bạn đã nhận được 3 tin nhắn mới. 
+data/1043.jpg Đang tải dữ liệu, vui lòng đợi... 
+data/1044.jpg Số km đã đi: 1.234 km. 
+data/1045.jpg Chuyến bay VN123 bị hoãn 30 phút. 
+data/1046.jpg Vui lòng nhập số CMND/CCCD của bạn. 
+data/1047.jpg Mật khẩu mới phải có ít nhất 8 ký tự. 
+data/1048.jpg Nhiệt độ ngoài trời: 32°C. 
+data/1049.jpg Mời bạn nhập địa chỉ giao hàng. 
+data/1050.jpg Đã cập nhật phiên bản 2.1.0. 
+data/1051.jpg File bạn tải về: report_2025.pdf. 
+data/1052.jpg Thời gian dự kiến: 14:00 - 16:00. 
+data/1053.jpg Tổng số đơn hàng hôm nay: 27. 
+data/1054.jpg Bạn có 5 thông báo chưa đọc. 
+data/1055.jpg Tỷ giá USD/VND: 24,500. 
+data/1056.jpg Bài kiểm tra sẽ bắt đầu lúc 9:45. 
+data/1057.jpg Phiên làm việc sẽ kết thúc sau 15 phút. 
+data/1058.jpg Tài liệu được lưu trong thư mục D:/Data. 
+data/1059.jpg Hãy đặt lại mật khẩu nếu bạn quên. 
+data/1060.jpg Chương trình học có 12 tuần.
+data/1061.jpg Bạn tên gì? 
+data/1062.jpg Tôi tên là Minh. 
+data/1063.jpg Chào buổi sáng! 
+data/1064.jpg Hôm nay bạn thế nào? 
+data/1065.jpg Tôi khỏe, cảm ơn! 
+data/1066.jpg Mấy giờ rồi? 
+data/1067.jpg Bây giờ là 10:25 sáng. 
+data/1068.jpg Chúc bạn một ngày tốt lành! 
+data/1069.jpg Xin lỗi, tôi đến trễ. 
+data/1070.jpg Cảm ơn bạn rất nhiều! 
+data/1071.jpg Bạn có rảnh vào 6h tối nay không? 
+data/1072.jpg Xin chào, tôi có thể giúp gì cho bạn? 
+data/1073.jpg Tôi muốn đặt một ly cà phê sữa. 
+data/1074.jpg Hãy gọi cho tôi vào lúc 15:00. 
+data/1075.jpg Đợi tôi một chút nhé! 
+data/1076.jpg Tôi sẽ đến trong 5 phút. 
+data/1077.jpg Hôm nay trời đẹp quá! 
+data/1078.jpg Chúng ta gặp nhau ở đâu? 
+data/1079.jpg Tôi thích nghe nhạc vào buổi tối. 
+data/1080.jpg Bạn có thể nhắc lại không? 
+data/1081.jpg Chúng ta đi xem phim lúc 19h nhé. 
+data/1082.jpg Đường này có nhiều xe quá! 
+data/1083.jpg Đừng quên mang theo ô. 
+data/1084.jpg Tôi đang trên đường đến. 
+data/1085.jpg Chuyến bay của bạn lúc mấy giờ? 
+data/1086.jpg Hãy đặt báo thức lúc 6:30 sáng. 
+data/1087.jpg Tôi cần mua vé xe buýt số 45. 
+data/1088.jpg Nhà hàng này rất đông khách. 
+data/1089.jpg Bạn có thể kiểm tra lại hóa đơn không? 
+data/1090.jpg Chúng ta hãy giữ liên lạc nhé!
+data/1091.jpg Tôi đang cập nhật phần mềm lên phiên bản 3.2. 
+data/1092.jpg Bạn có thể gửi file PDF qua email không? 
+data/1093.jpg Mạng Wi-Fi nhà bạn tên gì? 
+data/1094.jpg Tài khoản này cần xác minh bằng OTP. 
+data/1095.jpg Tôi quên mật khẩu, làm sao để khôi phục? 
+data/1096.jpg Dung lượng pin điện thoại còn 15%. 
+data/1097.jpg Máy tính của tôi bị lỗi không khởi động được. 
+data/1098.jpg Bạn có thể chia sẻ màn hình được không? 
+data/1099.jpg Tốc độ tải xuống là 50 Mbps. 
+data/1100.jpg Vui lòng nhập mã PIN để tiếp tục.
+data/1101.jpg Hạn chót nộp bài là ngày 10/04. 
+data/1102.jpg Tôi đang học lập trình Java. 
+data/1103.jpg Bạn có thể giúp tôi sửa bài tập này không? 
+data/1104.jpg Cuộc họp bắt đầu lúc 9h sáng. 
+data/1105.jpg Hãy gửi báo cáo trước 17h hôm nay. 
+data/1106.jpg Thầy giáo giao bài tập về nhà rất nhiều. 
+data/1107.jpg Tôi muốn đăng ký khóa học tiếng Anh. 
+data/1108.jpg Lịch thi cuối kỳ đã được công bố. 
+data/1109.jpg Bạn đã đọc sách “Nhà giả kim” chưa? 
+data/1110.jpg Môn học yêu thích của tôi là Toán.
+data/1111.jpg Sản phẩm này có giá bao nhiêu? 
+data/1112.jpg Bạn có size áo L không? 
+data/1113.jpg Tôi muốn đặt hàng online. 
+data/1114.jpg Giao hàng dự kiến trong 3 ngày. 
+data/1115.jpg Xin vui lòng kiểm tra lại đơn hàng. 
+data/1116.jpg Món ăn này có vị rất ngon! 
+data/1117.jpg Bạn có nhận thanh toán bằng thẻ không? 
+data/1118.jpg Siêu thị này mở cửa đến 22h. 
+data/1119.jpg Tôi muốn đổi trả sản phẩm này. 
+data/1120.jpg Vui lòng xuất hóa đơn cho tôi. 
+data/1121.jpg Khi nào chuyến xe buýt số 10 đến? 
+data/1122.jpg Vé máy bay khứ hồi có giá bao nhiêu? 
+data/1123.jpg Tôi muốn thuê xe trong 2 ngày. 
+data/1124.jpg Bến xe gần nhất cách đây 500m. 
+data/1125.jpg Đường này có bị kẹt xe không? 
+data/1126.jpg Khách sạn này có dịch vụ đưa đón không? 
+data/1127.jpg Tôi muốn đặt vé tàu đi Đà Nẵng. 
+data/1128.jpg Số hiệu chuyến bay của tôi là VN245. 
+data/1129.jpg Chuyến tàu sẽ khởi hành lúc 18:20. 
+data/1130.jpg Lộ trình đi từ Hà Nội đến Sapa như thế nào?
+data/1131.jpg Hôm nay là sinh nhật mẹ tôi. 
+data/1132.jpg Bố tôi làm việc ở công ty phần mềm. 
+data/1133.jpg Tôi có một em trai và một chị gái. 
+data/1134.jpg Gia đình tôi sống ở TP. Hồ Chí Minh. 
+data/1135.jpg Bạn thân của tôi tên là Linh. 
+data/1136.jpg Chúng ta đã quen nhau bao lâu rồi nhỉ? 
+data/1137.jpg Anh họ tôi vừa mới kết hôn. 
+data/1138.jpg Hôm nay bạn có rảnh không? 
+data/1139.jpg Cuối tuần này mình đi chơi nhé! 
+data/1140.jpg Tôi rất nhớ bạn.
+data/1141.jpg Tôi bị sốt từ hôm qua. 
+data/1142.jpg Bạn nên uống nhiều nước hơn. 
+data/1143.jpg Bác sĩ khuyên tôi tập thể dục mỗi ngày. 
+data/1144.jpg Lịch tập gym của tôi là thứ 2, 4, 6. 
+data/1145.jpg Bạn có thích chơi bóng đá không? 
+data/1146.jpg Trận chung kết sẽ diễn ra vào lúc 20h. 
+data/1147.jpg Tôi đang cố gắng giảm cân. 
+data/1148.jpg Đừng thức khuya quá nhiều. 
+data/1149.jpg Bạn cần ngủ đủ 8 tiếng mỗi ngày. 
+data/1150.jpg Tôi thích chạy bộ vào buổi sáng.
+data/1151.jpg Hôm nay trời nắng đẹp. 
+data/1152.jpg Dự báo ngày mai có mưa lớn. 
+data/1153.jpg Nhiệt độ hiện tại là 29°C. 
+data/1154.jpg Mùa đông năm nay lạnh hơn bình thường. 
+data/1155.jpg Đừng quên mang áo khoác nhé! 
+data/1156.jpg Tôi thích đi du lịch vào mùa thu. 
+data/1157.jpg Không khí ở đây rất trong lành. 
+data/1158.jpg Chúng ta nên bảo vệ môi trường. 
+data/1159.jpg Hãy hạn chế sử dụng túi nhựa. 
+data/1160.jpg Tôi đang trồng thêm nhiều cây xanh.
+data/1161.jpg Bộ phim này rất hay! 
+data/1162.jpg Bạn thích nghe thể loại nhạc nào? 
+data/1163.jpg Tôi đang đọc một cuốn tiểu thuyết mới. 
+data/1164.jpg Chúng ta đi karaoke cuối tuần này nhé! 
+data/1165.jpg Tôi biết chơi đàn guitar. 
+data/1166.jpg Bạn có thích vẽ tranh không? 
+data/1167.jpg Tôi thường chơi game vào buổi tối. 
+data/1168.jpg Lễ hội âm nhạc sẽ diễn ra vào tháng 6. 
+data/1169.jpg Tôi đang học nhảy hiện đại. 
+data/1170.jpg Hôm nay tôi muốn thư giãn và xem phim.
+data/1171.jpg Tôi vừa mua một chiếc laptop mới. 
+data/1172.jpg Bạn có biết cách cài đặt phần mềm này không? 
+data/1173.jpg Điện thoại của tôi bị hỏng màn hình. 
+data/1174.jpg Máy in không hoạt động, bạn có thể kiểm tra không? 
+data/1175.jpg Tôi đang học lập trình Python. 
+data/1176.jpg Trí tuệ nhân tạo đang thay đổi thế giới. 
+data/1177.jpg Bạn có thể gửi tài liệu qua Google Drive không? 
+data/1178.jpg Tôi cần một chiếc ổ cứng 1TB. 
+data/1179.jpg Mạng Wi-Fi hôm nay quá chậm. 
+data/1180.jpg Tàu vũ trụ vừa mới hạ cánh an toàn.
+data/1181.jpg Bạn đã làm xong bài tập chưa? 
+data/1182.jpg Tôi cần một quyển sổ ghi chép mới. 
+data/1183.jpg Cuộc họp sẽ diễn ra vào lúc 14h. 
+data/1184.jpg Thầy giáo giao bài tập về nhà rất nhiều. 
+data/1185.jpg Tôi đang chuẩn bị cho kỳ thi cuối kỳ. 
+data/1186.jpg Bạn có thể giúp tôi chỉnh sửa bài báo cáo không? 
+data/1187.jpg Đề tài luận văn của tôi là về trí tuệ nhân tạo. 
+data/1188.jpg Tôi cần một chiếc bút màu xanh. 
+data/1189.jpg Công ty đang tuyển dụng vị trí lập trình viên. 
+data/1190.jpg Hãy gửi email xác nhận trước 17h hôm nay.
+data/1191.jpg Bạn đang làm gì vậy? 
+data/1192.jpg Chúng ta đi uống cà phê nhé! 
+data/1193.jpg Bạn có rảnh vào cuối tuần không? 
+data/1194.jpg Tôi thích đi dạo vào buổi chiều. 
+data/1195.jpg Xin lỗi, tôi không thể đến được. 
+data/1196.jpg Hãy giữ liên lạc nhé! 
+data/1197.jpg Chúc mừng sinh nhật bạn! 
+data/1198.jpg Tôi đang chờ bạn ở quán cà phê. 
+data/1199.jpg Đừng quên mang theo ô nhé! 
+data/1200.jpg Chúc bạn ngủ ngon.
+data/1201.jpg Tôi muốn đặt phòng khách sạn ở Đà Lạt. 
+data/1202.jpg Bạn có bản đồ thành phố không? 
+data/1203.jpg Nhà hàng này có món ăn rất ngon. 
+data/1204.jpg Xe buýt số 26 sẽ đến trong 10 phút. 
+data/1205.jpg Hãy gọi taxi giúp tôi. 
+data/1206.jpg Sân bay cách đây bao xa? 
+data/1207.jpg Tôi muốn thuê xe máy trong 3 ngày. 
+data/1208.jpg Chuyến bay của tôi bị hoãn 2 tiếng. 
+data/1209.jpg Ở đây có quán ăn nào ngon không? 
+data/1210.jpg Hãy đặt vé tàu đi Nha Trang cho tôi.
+data/1211.jpg Tôi đang tải ứng dụng này về điện thoại. 
+data/1212.jpg Hệ điều hành mới có nhiều tính năng hay. 
+data/1213.jpg Bạn đã thử dùng ChatGPT chưa? 
+data/1214.jpg Tôi cần mua một cặp tai nghe Bluetooth. 
+data/1215.jpg Máy tính bị treo, tôi phải làm sao? 
+data/1216.jpg Điện thoại của bạn có hỗ trợ 5G không? 
+data/1217.jpg Tôi vừa nâng cấp RAM lên 16GB. 
+data/1218.jpg Máy ảnh này có độ phân giải 48MP. 
+data/1219.jpg Hãy cập nhật trình duyệt của bạn. 
+data/1220.jpg Tôi thích đọc sách về khoa học vũ trụ.
+data/1221.jpg Bạn có thể giúp tôi giải bài toán này không? 
+data/1222.jpg Hãy chuẩn bị bài thuyết trình cho ngày mai. 
+data/1223.jpg Tôi cần mua một chiếc balo mới để đi học. 
+data/1224.jpg Công ty tổ chức đào tạo vào thứ Hai. 
+data/1225.jpg Thời gian làm việc là từ 8h đến 17h. 
+data/1226.jpg Bạn đã nhận được tài liệu chưa? 
+data/1227.jpg Hãy ghi chú lại những điểm quan trọng. 
+data/1228.jpg Chúng ta có thể trao đổi qua Zoom không? 
+data/1229.jpg Tôi đang viết báo cáo về kinh tế. 
+data/1230.jpg Cuộc họp bị dời sang ngày mai.
+data/1231.jpg Hôm nay bạn có khỏe không? 
+data/1232.jpg Chúng ta cùng đi xem phim nhé! 
+data/1233.jpg Tôi đang tìm một quán cà phê yên tĩnh. 
+data/1234.jpg Bạn có thể giúp tôi một chút được không? 
+data/1235.jpg Xin lỗi, tôi không thể đến đúng giờ. 
+data/1236.jpg Hãy nhắn tin cho tôi khi bạn đến. 
+data/1237.jpg Tôi thích dành thời gian bên gia đình. 
+data/1238.jpg Bạn có muốn ăn kem không? 
+data/1239.jpg Hôm nay là một ngày tuyệt vời! 
+data/1240.jpg Hãy giữ tinh thần lạc quan nhé!
+data/1241.jpg Tôi muốn đặt một ly trà sữa trân châu. 
+data/1242.jpg Bạn có bán thẻ điện thoại không? 
+data/1243.jpg Cửa hàng có chương trình giảm giá 20%. 
+data/1244.jpg Tôi cần mua một chiếc áo khoác mới. 
+data/1245.jpg Giao hàng mất bao lâu? 
+data/1246.jpg Bạn có thể kiểm tra giúp tôi đơn hàng này không? 
+data/1247.jpg Tôi muốn đổi trả sản phẩm bị lỗi. 
+data/1248.jpg Quán ăn này rất nổi tiếng. 
+data/1249.jpg Hãy đặt bàn cho bốn người vào tối nay. 
+data/1250.jpg Tổng hóa đơn của bạn là 350.000 VNĐ.
+data/1251.jpg Số 253 đường Trần Phú, Thị trấn Nam Sách, Huyện Nam Sách, Hải Dương 
+data/1252.jpg Số 289 Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, TP Hồ Chí Minh
+data/1253.jpg Số 3 Nguyễn Ngọc Vũ, Hà Nội
+data/1254.jpg Số 246E/2, Khu phố 1B, Phường An Phú, Tx Thuận An, Bình Dương
+data/1255.jpg Số 30 Nguyên Hồng, Láng Hạ, Đống Đa, Hà Nội
+data/1256.jpg 42 Đặng Thị Nhu, Phường Nguyễn Thái Bình, Quận 1, TP Hồ Chí Minh
+data/1257.jpg 58 Thái Thịnh, Đống Đa, Hà Nội
+data/1258.jpg 200 Phan Bội Châu, Phường Trường An, Thành phố Huế, Thừa Thiên - Huế
+data/1259.jpg Số 370/8 khu phố 5B, phường Tân Biên, Biên Hòa, Đồng Nai
+data/1260.jpg 27A Hoàng Việt, Phường 4, Quận Tân Bình, TP Hồ Chí Minh
+data/1261.jpg Vĩnh Trung Plaza, B, 255-257 đường Hùng Vương, phường Vĩnh Trung
+data/1262.jpg Số 113 Đường Hưng Thái 2, Phường Tân Phong, Quận 7, TP Hồ Chí Minh
+data/1263.jpg Tòa nhà 34T, Hoàng Đạo Thúy, Hà Nội
+data/1264.jpg 40 Cát Linh, Đống Đa, Hà Nội
+data/1265.jpg Dãy II, B1, Trần Phú, Phường Cái Khế, Quận Ninh Kiều, Cần Thơ
+data/1266.jpg phòng 101, tầng 1, lô 04-TT5B, khu đô thị Tây Nam Linh Đàm
+data/1267.jpg ấp Hòa Long 4, Thị trấn An Châu, Huyện Châu Thành, An Giang
+data/1268.jpg Nhà 87 ngõ 416 Đê La Thành
+data/1269.jpg Quốc lộ 29 - Khu phố 1, Thị trấn Hai Riêng, Huyện Sông Hinh, Phú Yên
+data/1270.jpg Up coworking space,89 Láng Hạ,Hà Nội
+data/1271.jpg 469 Hà Huy Tập, Thị trấn Yên Viên, Huyện Gia Lâm, Hà Nội
+data/1272.jpg 192 Ngô Đức Kế, quận 1, Hồ Chí Minh
+data/1273.jpg 479 Khu phố 5, Phường 9, Thành phố Mỹ Tho, Tiền Giang
+data/1274.jpg số 5 Công Trường Mê Linh, phường Bến Nghé, quận 1
+data/1275.jpg 561A Điện Biên Phủ, Phường 25, Quận Bình Thạnh, TP Hồ Chí Minh
+data/1276.jpg 90A đường Mai Xuân Thưởng, tỉnh Gia Lai
+data/1277.jpg Thôn 4, Xã Ea Tir, Huyện Ea H'leo, Đắc Lắc
+data/1278.jpg 96/7/12B Phạm Văn Đồng, thành phố Pleiku
+data/1279.jpg Phố 2, Huyện Bá Thước, Thanh Hoá
+data/1280.jpg 168 Ngô Gia Tự, thành phố Hà Tĩnh
+data/1281.jpg Tổ 2, Xã Yên Bình, Huyện Quang Bình, Hà Giang
+data/1282.jpg TT Đồng Lê, Huyện Tuyên Hoá, Quảng Bình
+data/1283.jpg Số 253, đường Nguyễn Trãi, Phường Quán Bàu, Thành Phố Vinh, Nghệ An
+data/1284.jpg Số 197, Bạch Đằng, Phường Chương Dương, Quận Hoàn Kiếm, Hà Nội
+data/1285.jpg 117A Bình Thới, Phường 11, Quận 11, TP Hồ Chí Minh
+data/1286.jpg Tổ 1, Phường Yên Ninh, Thành phố Yên Bái, Yên Bái
+data/1287.jpg 38 Khu Hòa Bình, Thành phố Đà Lạt, Lâm Đồng
+data/1288.jpg Số 348, Tổ 10, ấp Tân Phú B, Xã Tân An, Thị xã Tân Châu, An Giang
+data/1289.jpg 122/4B, đường 3/2, Phường Xuân Khánh, Quận Ninh Kiều, Cần Thơ
+data/1290.jpg ấp 1, Xã Hưng Thạnh, Huyện Tháp Mười, Đồng Tháp
+data/1291.jpg ấp 6, Xã Vĩnh Thuận Đông, Huyện Long Mỹ, Hậu Giang
+data/1292.jpg Nhà B11 khu đô thị sông đà 2, Quận Hà Đông, Hà Nội
+data/1293.jpg Số 41, đường Tô Hiệu, TP. Sơn La, Sơn La
+data/1294.jpg ấp Mỹ Hòa, Thị trấn Mỹ Luông, Huyện Chợ Mới, An Giang
+data/1295.jpg Số 49 Trần Quốc Toản, Phường Tây Lộc, Thành phố Huế, Thừa Thiên - Huế
+data/1296.jpg 15 Hùng Vương, Thành phố Đà Lạt, Lâm Đồng
+data/1297.jpg 22 Linh Trung, Phường Linh Trung, Quận Thủ Đức, TP Hồ Chí Minh
+data/1298.jpg 209/11 Bến Vân Đồn, Tổ 2, phường 05, Quận 4, TP Hồ Chí Minh
+data/1299.jpg Số 64 đường Trần Văn ơn, Phường 1, Thành phố Vĩnh Long, Vĩnh Long
+data/1300.jpg 49 Nguyễn Thị Huỳnh, Quận Phú Nhuận, TP Hồ Chí Minh
+data/1301.jpg Số 21 Lê Văn Lương, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội
+data/1302.jpg Lô C2, 13-14 Phạm Văn Đồng, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng
+data/1303.jpg Chợ Lý Hoà, Xã Hải Trạch, Huyện Bố Trạch, Quảng Bình
+data/1304.jpg Số 59 Đại Cồ Việt, Phường Lê Đại Hành, Quận Hai Bà Trưng, Hà Nội
+data/1305.jpg Xóm Chanh, Xã Thái Bình, Huyện Yên Sơn, Tuyên Quang
+data/1306.jpg Xóm 4, thôn Giang Cao, Xã Bát Tràng, Huyện Gia Lâm, Hà Nội
+data/1307.jpg Xã Đông tân, Huyện Đông Hưng, Thái Bình
+data/1308.jpg 426/8/9 Giản Dân, Phường Long Thạnh Mỹ, Quận 9, TP Hồ Chí Minh
+data/1309.jpg 27/33 KP Bình Minh 2, Phường Dĩ An, Tx Dĩ An, Bình Dương
+data/1310.jpg 215 Nguyễn Duy Hiệu, Phường Sơn Phong, Thành phố Hội An, Quảng Nam
+data/1311.jpg xóm Lê Lợi, Xã Văn Khúc, Huyện Cẩm Khê, Phú Thọ
+data/1312.jpg Thôn 2, Xã Krông Jing, Huyện M'ĐrắK, Đắc Lắc
+data/1313.jpg Tân Thiềng, Huyện Chợ Lách, Bến Tre
+data/1314.jpg Lô IV, Huyện Trảng Bom, Đồng Nai
+data/1315.jpg Phố Lê Lương, Thị trấn Đầm Hà, Huyện Đầm Hà, Quảng Ninh
+data/1316.jpg Số 3, ngách 121, tổ 13, Phường Thịnh Quang, Quận Đống đa, Hà Nội
+data/1317.jpg K760/26 Điện Biên phủ, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng
+data/1318.jpg Thôn Pù Đồn, Xã Minh Quang, Huyện Chiêm Hoá, Tuyên Quang
+data/1319.jpg Thôn Nội, Xã Ninh Xuân, Huyện Hoa Lư, Ninh Bình
+data/1320.jpg 304/19/1 Bùi Đình Túy, Phường 12, Quận Bình Thạnh, TP Hồ Chí Minh
+data/1321.jpg Số 126 Lý Nam Đế, Phường Kim Long, Thành phố Huế, Thừa Thiên - Huế
+data/1322.jpg 182 - ấp Rừng Sến, Xã Mỹ Hạnh Bắc, Huyện Đức Hoà, Long An
+data/1323.jpg xã Quỳnh Xuân, Thị Xã Hoàng Mai, Nghệ An
+data/1324.jpg Xóm Ninh Sơn, Xã Xuất Hóa, Huyện Lạc Sơn, Hòa Bình
+data/1325.jpg Lô H3, TX Dĩ An, Bình Dương
+data/1326.jpg Số 43, Đường Thăng Long, Phường 4, Quận Tân Bình, TP Hồ Chí Minh
+data/1327.jpg Số 172 đại lộ Tôn Đức Thắng, Xã An Đồng, Huyện An Dương, Hải Phòng
+data/1328.jpg 93/9 Lũy Bán Bích, Phường Tân Thới Hoà, Quận Tân phú, TP Hồ Chí Minh
+data/1329.jpg Số 900, ấp Phước Lợi, Xã Mong Thọ B, Huyện Châu Thành, Kiên Giang
+data/1330.jpg Số 69 Đường 2, Xã Mai Đình, Huyện Sóc Sơn, Hà Nội
+data/1331.jpg Đọ, Xã Bạch Sam, Huyện Mỹ Hào, Hưng Yên
+data/1332.jpg Vĩnh Hồng, Huyện Bình Giang, Hải Dương
+data/1333.jpg Thôn Tây, Xã An Vĩnh, Huyện Lý Sơn, Quảng Ngãi 
+data/1334.jpg Đại lộ Lê Nin, xóm 13, Xã Nghi Phú, Thành Phố Vinh, Nghệ An
+data/1335.jpg 309 Bùi Hữu Nghĩa P.01, Phường 1, Quận Bình Thạnh, TP Hồ Chí Minh
+data/1336.jpg Tòa Nhà PetroVietnam 1, Quận 1, TP Hồ Chí Minh
+data/1337.jpg ấp Phú Bình, xã Phú Hựu, Huyện Châu Thành, Đồng Tháp
+data/1338.jpg Số 84, ngõ 10, phố 8-3, Phường Quỳnh Mai, Quận Hai Bà Trưng, Hà Nội
+data/1339.jpg Tỉnh lộ 664, Xã Ia Dêr, Huyện Ia Grai, Gia Lai
+data/1340.jpg Số 958, đường La Thành, Phường Ngọc Khánh, Quận Ba Đình, Hà Nội
+data/1341.jpg Tầng 5, Số 98 phố Hoàng Ngân, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội
+data/1342.jpg 64/7/10 Đường Số 8, Phường 11, Quận Gò Vấp, TP Hồ Chí Minh
+data/1343.jpg Số 56, Phố Lưu Hữu Phước, Phường Cầu Diễn, Quận Nam Từ Liêm, Hà Nội
+data/1344.jpg Khu TM Hiệp Thành Mộc Bài, Xã Lợi Thuận, Huyện Bến Cầu, Tây Ninh
+data/1345.jpg 477 Lê Trọng Tấn, Phường Sơn Kỳ, Quận Tân phú, TP Hồ Chí Minh
+data/1346.jpg Bản Tây Tà Lào, Xã Tân Xuân, Huyện Vân Hồ, Sơn La
+data/1347.jpg Nhà số 8, tổ 10, Phường Định Công, Quận Hoàng Mai, Hà Nội
+data/1348.jpg Số 43 tổ 1, Khóm 2, Phường Cái Vồn, Thị Xã Bình Minh, Vĩnh Long
+data/1349.jpg Số 9, phố Yên Ninh, Phường Trúc Bạch, Quận Ba Đình, Hà Nội
+data/1350.jpg 229/38 Lê Quang Định, Phường 7, Quận Bình Thạnh, TP Hồ Chí Minh
+data/1351.jpg Xã Kiệt Sơn, Huyện Tân Sơn, Phú Thọ
+data/1352.jpg Mỏ đá vôi Đồng Bà Ký, Xã Yên Vượng, Huyện Hữu Lũng, Lạng Sơn
+data/1353.jpg 5/121/1 Nơ Trang Long, Phường 7, Quận Bình Thạnh, TP Hồ Chí Minh
+data/1354.jpg Tổ dân phố Thống Nhất, Phường Dương Nội, Quận Hà Đông, Hà Nội
+data/1355.jpg ấp Mỹ Thọ, Xã Mỹ Tịnh An, Huyện Chợ Gạo, Tiền Giang
+data/1356.jpg 08 Lê Quý Đôn, Phường Ia Kring, Thành phố Pleiku, Gia Lai
+data/1357.jpg 28/137, KP 3, Phường Tân Mai, Thành Phố Biên Hoà, Đồng Nai
+data/1358.jpg Xín Mần, Xã Xín Mần, Huyện Xín Mần, Hà Giang
+data/1359.jpg Xóm 2, Thôn Cù Tu, Xã Xuân Trúc, Huyện Ân Thi, Hưng Yên
+data/1360.jpg 124 Đường 32, Phường Bình Trị Đông B, Quận Bình Tân, TP Hồ Chí Minh
+data/1361.jpg Số nhà 9, Lê Quý Đôn, tổ 9, Phường Nguyễn Trãi, TP Hà Giang, Hà Giang
+data/1362.jpg Tân Hiệp, Thành phố Hội An, Quảng Nam
+data/1363.jpg 83/4B Tam Bình, Phường Tam Phú, Quận Thủ Đức, TP Hồ Chí Minh
+data/1364.jpg Số 65, phố Viên, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội
+data/1365.jpg Thôn Phước Hậu, Phường 9, TP Tuy Hoà, Phú Yên
+data/1366.jpg Thôn Phú Khánh Thượng, Xã Diên Thạnh, Huyện Diên Khánh, Khánh Hòa
+data/1367.jpg Xã Phương Công, Huyện Tiền Hải, Thái Bình
+data/1368.jpg 43/29 Thành Thái, Phường 14, Quận 10, TP Hồ Chí Minh
+data/1369.jpg 32/17 Phan Đăng Lưu, Phường Hoà Cường Bắc, Quận Hải Châu, Đà Nẵng
+data/1370.jpg Thôn Hà Bắc, Xã Ea Wer, Huyện Buôn Đôn, Đắc Lắc
+data/1371.jpg 59 Phạm Tu, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng
+data/1372.jpg QL14, Thị xã Đồng Xoài, Bình Phước
+data/1373.jpg 121B Trần Nhật Duật, Phường Phước Hòa, Thành phố Nha Trang, Khánh Hòa
+data/1374.jpg Số 298, Nguyễn Trãi, Phường Tân Sơn, Thành phố Thanh Hoá, Thanh Hoá
+data/1375.jpg Số 268 đường Bà Triệu, Phường Vĩnh Trại, Thành phố Lạng Sơn, Lạng Sơn
+data/1376.jpg Số 73, khu 5, Phường Bạch Đằng, Thành phố Hạ Long, Quảng Ninh
+data/1377.jpg Bản Hoàng Mã, Xã Chiềng Khoong, Huyện Sông Mã, Sơn La
+data/1378.jpg Khu hành chính huyện Thống Nhất, Huyện Thống Nhất, Đồng Nai
+data/1379.jpg 24 Đường Mỹ Thái 2A, Phường Tân Phú, Quận 7, TP Hồ Chí Minh
+data/1380.jpg 8 Trương Văn Thành, Phường Hiệp Phú, Quận 9, TP Hồ Chí Minh
+data/1381.jpg 61 Đường số 3, Cư xá Đô Thành, Phường 04, Quận 3, TP Hồ Chí Minh
+data/1382.jpg Số 1 Phạm Hùng, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội
+data/1383.jpg 93/4 Nguyễn Phúc Chu, Phường 15, Quận Tân Bình, TP Hồ Chí Minh
+data/1384.jpg Tổ 27, phường Yên Thịnh, Thành phố Yên Bái, Yên Bái
+data/1385.jpg Tổ 19, ấp Trầu, Xã Phước Thiền, Huyện Nhơn Trạch, Đồng Nai
+data/1386.jpg 391 Giải Phóng, Thị trấn Phước An, Huyện Krông Pắk, Đắc Lắc
+data/1387.jpg Thôn Mơ, Xã Xuân Bình, Huyện Như Xuân, Thanh Hoá
+data/1388.jpg 382/12/24 Tân Kỳ Tân Quý, Phường Sơn Kỳ, Quận Tân phú, TP Hồ Chí Minh
+data/1389.jpg xã Hòa Hiệp, Xã Hòa Hiệp, Huyện Xuyên Mộc, Bà Rịa - Vũng Tàu
+data/1390.jpg Thị trấn Uyên hưng, Thị xã Tân Uyên, Bình Dương
+data/1391.jpg Số 161-163-165 Xuân Hồng, Phường 12, Quận Tân Bình, TP Hồ Chí Minh
+data/1392.jpg ấp Tân Phú, xã Phú Thạnh, Huyện Tân Phú Đông, Tiền Giang
+data/1393.jpg Tổ dân phố số 18, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội
+data/1394.jpg Phường Tiên Cát, Thành phố Việt Trì, Phú Thọ
+data/1395.jpg 61/21 Lý Tự Trọng, Quận Ninh Kiều, Cần Thơ
+data/1396.jpg Số 79, ngõ 3 Phan Phù Tiên, Phường Cát Linh, Quận Đống Đa, Hà Nội
+data/1397.jpg Khu 8, Xã Thanh Đình, Thành phố Việt Trì, Phú Thọ
+data/1398.jpg 809 Quang Trung, Phường An Bình, Thị xã An Khê, Gia Lai
+data/1399.jpg 64 Lã Xuân Oai, Phường Tăng Nhơn Phú A, Quận 9, TP Hồ Chí Minh
+data/1400.jpg Tổ 12, ấp Thuận Hòa, Xã Bình Sơn, Huyện Hòn Đất, Kiên Giang
+data/1401.jpg Số 18/61/2 phố Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội
+data/1402.jpg 38 Mạc Đĩnh Chi, Quận 1, TP Hồ Chí Minh
+data/1403.jpg 60/3 Tân Tiến, Xã Xuân T Đông, Huyện Hóc Môn, TP Hồ Chí Minh
+data/1404.jpg 28/6 Trương Công Định, Phường 14, Quận Tân Bình, TP Hồ Chí Minh
+data/1405.jpg ô số 21, lô A, khu 7.2 ha, phường Vĩnh Phúc, Quận Ba Đình, Hà Nội
+data/1406.jpg ấp Thuận Bắc, xã Thuận Thành, Huyện Cần Giuộc, Long An
+data/1407.jpg Thôn Phú Đa, Xã Đức Thượng, Huyện Hoài Đức, Hà Nội
+data/1408.jpg Số 2445 tổ 37, ấp Bông Trang, Xã Thạnh Đức, Huyện Gò Dầu, Tây Ninh
+data/1409.jpg 225A/1, Khu Phố 1A, Phường An Phú, TX Thuận An, Bình Dương
+data/1410.jpg Số 81/9, Tổ 2, KP 7, Phường Tam Hiệp, Thành Phố Biên Hoà, Đồng Nai
+data/1411.jpg Chiềng Bôn, Huyện Thuận Châu, Sơn La
+data/1412.jpg Số 19/5, ngõ 178 Tây Sơn, Phường Trung Liệt, Quận Đống đa, Hà Nội
+data/1413.jpg Số 165 Tô Hiệu, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội
+data/1414.jpg 850/9 Quốc lộ 52, Khu phố 6, Phường Hiệp Phú, Quận 9, TP Hồ Chí Minh
+data/1415.jpg 34 Đào Duy Từ, Phường Lộc Phát, Thành phố Bảo Lộc, Lâm Đồng
+data/1416.jpg 2Bis-4-6 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, TP Hồ Chí Minh
+data/1417.jpg Số 02 Hoa Phượng, Phường 02, Quận Phú Nhuận, TP Hồ Chí Minh
+data/1418.jpg Số 18, Quang Trung, Phường Hải Đình, Thành phố Đồng Hới, Quảng Bình
+data/1419.jpg Số 2, ngõ 53, phố Linh Lang, Phường Cống Vị, Quận Ba Đình, Hà Nội
+data/1420.jpg Số 35/1 Lê Hồng Phong, Phường IV, Tp Vị Thanh, Hậu Giang
+data/1421.jpg Thôn 1, Xã Liêng Srônh, Huyện Đam Rông, Lâm Đồng
+data/1422.jpg Thôn Nghĩa Chỉ, Xã Minh Đạo, Huyện Tiên Du, Bắc Ninh
+data/1423.jpg 369/3D, ấp An Phong, Xã An Thạnh, Huyện Mỏ Cày Nam, Bến Tre
+data/1424.jpg Xóm số 6, Xã Sơn Cẩm, Huyện Phú Lương, Thái Nguyên
+data/1425.jpg Phường Thanh Sơn, Phường Thanh Sơn, Thành phố Uông Bí, Quảng Ninh
+data/1426.jpg 198B Nguyễn Văn Hưởng, Phường Thảo Điền, Quận 2, TP Hồ Chí Minh
+data/1427.jpg 742 Nguyễn Trãi, Phường 11, Quận 5, TP Hồ Chí Minh
+data/1428.jpg 33 Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, TP Hồ Chí Minh
+data/1429.jpg 64 Tố Hữu, Phường Hoà Cường Nam, Quận Hải Châu, Đà Nẵng
+data/1430.jpg Thôn Bến Hầu, xã Trường Sơn, Huyện Đức Thọ, Hà Tĩnh
+data/1431.jpg ấp 3, Long Hòa, Huyện Dầu Tiếng, Bình Dương
+data/1432.jpg KCN Yên Phong, Xã Long Châu, Huyện Yên Phong, Bắc Ninh
+data/1433.jpg Tổ 27, đường Lĩnh Nam, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội
+data/1434.jpg Lô a3 Hàm Nghi, Bình Khánh, Thành phố Long Xuyên, An Giang
+data/1435.jpg K89/3 Trần Quang Khải, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng
+data/1436.jpg 185/50 Ba Tháng Hai, Phường 11, Quận 10, TP Hồ Chí Minh
+data/1437.jpg 37/4 Trần Đình Xu, Phường Cầu Kho, Quận 1, TP Hồ Chí Minh
+data/1438.jpg 103A đường 23/10, Phường Phương Sơn, Thành phố Nha Trang, Khánh Hòa
+data/1439.jpg 238 Lê Lợi, Phường Chánh Lộ, Thành Phố Quảng Ngãi, Quảng Ngãi
+data/1440.jpg 210 Cống Quỳnh, Phường Phạm Ngũ Lão, Quận 1, TP Hồ Chí Minh
+data/1441.jpg Thôn 2, Xã Long Hiệp, Huyện Minh Long, Quảng Ngãi
+data/1442.jpg Số 01, khu 4, Phường Long Thuỷ, Thị Xã Phước Long, Bình Phước
+data/1443.jpg KP.06, Phường Linh Trung, Quận Thủ Đức, TP Hồ Chí Minh
+data/1444.jpg Thôn Vệ Sơn Đông, xã Tân Minh, Xã Tân Minh, Huyện Sóc Sơn, Hà Nội
+data/1445.jpg 240/72 Nguyễn Văn Luông, Phường 11, Quận 6, TP Hồ Chí Minh
+data/1446.jpg 243 HOANG VAN THU, P.422, Q.TB, Quận Tân Bình, TP Hồ Chí Minh
+data/1447.jpg 445/2A Nơ Trang Long, Phường 13, Quận Bình Thạnh, TP Hồ Chí Minh
+data/1448.jpg Thôn 7 (A Dai), xã Hương Long, Huyện Nam Đông, Thừa Thiên - Huế
+data/1449.jpg 25 Đường C18, Phường 12, Quận Tân Bình, TP Hồ Chí Minh
+data/1450.jpg 121/28/20 Đường TA19, phường Thới An, Quận 12, TP Hồ Chí Minh
+data/1451.jpg 390A Ngô Gia Tự, Phường 04, Quận 10, TP Hồ Chí Minh
+data/1452.jpg Xóm Cầu, thôn Triều Khúc, Xã Tân Triều, Huyện Thanh Trì, Hà Nội
+data/1453.jpg ấp Cái Dầy, Thị trấn Châu Hưng, Huyện Vĩnh Lợi, Bạc Liêu
+data/1454.jpg 105B Trần Hưng Đạo, P. Mỹ Bình, Thành Phố Long Xuyên, An Giang
+data/1455.jpg 190E/2, đường 30/4, Phường Hưng Lợi, Quận Ninh Kiều, Cần Thơ
+data/1456.jpg Số 5 ngõ 196 phố Thái Thịnh, Phường Láng Hạ, Quận Đống Đa, Hà Nội
+data/1457.jpg Số 219B, ấp Chánh, Xã Đức Lập Hạ, Huyện Đức Hoà, Long An
+data/1458.jpg Thôn Xâm Dương, Xã Ninh Sở, Huyện Thường Tín, Hà Nội
+data/1459.jpg 1089 Tạ Quang Bửu, Phường 6, Quận 8, TP Hồ Chí Minh
+data/1460.jpg Thôn Kdăm 1, Xã Ia KDăm, Huyện IaPa, Gia Lai
+data/1461.jpg Số 739, ấp Tân Tỉnh B, Xã Tân Mỹ Chánh, Thành phố Mỹ Tho, Tiền Giang
+data/1462.jpg 158A Võ Thị Sáu, Phường 08, Quận 3, TP Hồ Chí Minh
+data/1463.jpg Xóm Chợ Lù, Xã Tùng Lộc, Huyện Can Lộc, Hà Tĩnh
+data/1464.jpg 178D Hai Bà Trưng, Phường Đa Kao, Quận 1, TP Hồ Chí Minh
+data/1465.jpg 337/2A Trường Chinh, Phường 14, Quận Tân Bình, TP Hồ Chí Minh
+data/1466.jpg Phố Hoàng Hoa Thám, Thị trấn Cầu Gồ, Huyện Yên Thế, Bắc Giang
+data/1467.jpg Cao sơn, Huyện Anh Sơn, Nghệ An
+data/1468.jpg khu phố Mỹ An, Phường Nhị Mỹ, Thị Xã Cai Lậy, Tiền Giang
+data/1469.jpg 116/13 Tuyên Quang, Phường Phú Thủy, Thành Phố Phan Thiết, Bình Thuận
+data/1470.jpg Bản Mo Nghè 3, Xã Quang Huy, Huyện Phù Yên, Sơn La
+data/1471.jpg 12 Lý Đạo Thành, Phường Tràng Tiền, Quận Hoàn Kiếm, Hà Nội
+data/1472.jpg ấp 2, Xã Thiện Hưng, Huyện Bù Đốp, Bình Phước
+data/1473.jpg 202/4 Nguyễn Xí, Phường 26, Quận Bình Thạnh, TP Hồ Chí Minh
+data/1474.jpg Thôn Kim Sơn, Xã Thủy Bằng, Thị xã Hương Thuỷ, Thừa Thiên - Huế
+data/1475.jpg Số nhà 24, á Lữ, Phường Trần Phú, Thành phố Bắc Giang, Bắc Giang
+data/1476.jpg Số 260 Khương Đình, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội
+data/1477.jpg KCN Yên Phong, Xã Long Châu, Huyện Yên Phong, Bắc Ninh
+data/1478.jpg Xóm Đầm, xã Minh Khai,, Xã Minh Khai, Huyện Hoài Đức, Hà Nội
+data/1479.jpg 18 Ni Sư Huỳnh Liên, Phường 10, Quận Tân Bình, TP Hồ Chí Minh
+data/1480.jpg 1289 Nguyễn Tất Thành, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng
+data/1481.jpg Xã Quảng Tân, Huyện Quảng Xương, Thanh Hoá
+data/1482.jpg T2, xã Phúc Lai, Xã Phúc Lai, Huyện Đoan Hùng, Phú Thọ
+data/1483.jpg Số nhà 220 phố Quan Nhân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội
+data/1484.jpg 51 Quốc Hương, Phường Thảo Điền, Quận 2, TP Hồ Chí Minh
+data/1485.jpg Hà Đông, Quận Hà Đông, Hà Nội
+data/1486.jpg 658 Võ Văn Kiệt, Phường 01, Quận 5, TP Hồ Chí Minh
+data/1487.jpg 643 Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng
+data/1488.jpg Số 01, ấp 3, Xã Bình Thới, Huyện Bình Đại, Bến Tre
+data/1489.jpg 94/5 Nguyễn Đình Chiểu, Phường 03, Quận Phú Nhuận, TP Hồ Chí Minh
+data/1490.jpg Thôn 3, Xã Lộc An, Huyện Bảo Lâm, Lâm Đồng
+data/1491.jpg Số 190A/15, ấp Long Thuận A, Xã Long Phước, Huyện Long Hồ, Vĩnh Long
+data/1492.jpg 58-Nguyễn Trường Tộ, Phường Ninh Hiệp, Thị xã Ninh Hoà, Khánh Hòa
+data/1493.jpg Lô 80 Khu D, Phường Hoà Xuân, Quận Cẩm Lệ, Đà Nẵng
+data/1494.jpg Tổ 38, Khu 5, Phường Vân Phú, Thành phố Việt Trì, Phú Thọ 
+data/1495.jpg Vân Hòa, Xã Vân Tảo, Huyện Thường Tín, Hà Nội
+data/1496.jpg DT 746, Khu phố 7, Uyên Hưng, Thị xã Tân Uyên, Bình Dương
+data/1497.jpg 145 Nguyễn Đình Chính, Phường 11, Quận Phú Nhuận, TP Hồ Chí Minh
+data/1498.jpg Khu II TT Quán Lào, Huyện Yên Định, Thanh Hoá
+data/1499.jpg 68 Nguyễn Huệ, Phường Bến Nghé, Quận 1, TP Hồ Chí Minh
+data/1500.jpg Số 999A, ấp Năm Đảm, Xã Lương Thế Trân, Huyện Cái Nước, Cà Mau
+data/1501.jpg Tác phẩm Đạo đức cách mạng của Hồ Chí Minh
+data/1502.jpg Bốn bức tường im
+data/1503.jpg bên ngoài, đất nước đợi mong tin.
+data/1504.jpg nghe Bác lật từng trang sách gấp Tưởng
+data/1505.jpg Bác reo lên một mình
+data/1506.jpg Đảng lồng trong hình
+data/1507.jpg như nói cùng dân tộc: "Cơm áo là đây!
+data/1508.jpg Hạnh phúc đây rồi!" Hình của
+data/1509.jpg phút Bác Hồ cười,"
+data/1510.jpg Trong nhà nước dân chủ của Hồ
+data/1511.jpg Chí Minh, nhân dân thực thi quyền
+data/1512.jpg được in lần đầu tiên trên tạp chí nào?
+data/1513.jpg của Nước. Phút Khóc đầu tiên là
+data/1514.jpg Theo Hồ Chí
+data/1515.jpg đích phê bình cốt để giúp nhau
+data/1516.jpg cùng tiến bộ"
+data/1517.jpg Minh, trong xây dựng Đảng "mục
+data/1518.jpg Sớ là một loại văn bản cổ dùng để trình
+data/1519.jpg dâng lên bề trên mon
+data/1520.jpg bày ước vọng của người dưới
+data/1521.jpg bản hành chính nên sớ cũng
+data/1522.jpg được y chuẩn. Vì là một loại văn
+data/1523.jpg Ứng dụng của sớ rất rộng rãi,
+data/1524.jpg có những quy định chặt chẽ
+data/1525.jpg nhưng thời nay chỉ dùng cho việc
+data/1526.jpg cúng lễ. Mỗi khoa cúng
+data/1527.jpg khi hành trì đều có đoạn
+data/1528.jpg phải tuyên sớ, khoa cúng nào có
+data/1529.jpg loại sớ đó, riêng trong việc
+data/1530.jpg cúng lễ thôi cũng có tới vài
+data/1531.jpg trăm loại sớ. Ngoài việc gắn
+data/1532.jpg liền với các khoa cúng, thì
+data/1533.jpg trong sinh hoạt tâm linh, tín ngưỡng
+data/1534.jpg người ta cũng hay sử dụng
+data/1535.jpg sớ khi tự thân lễ lạt
+data/1536.jpg nơi đền chùa miếu mạo,
+data/1537.jpg bởi người ta quan niệm sớ là một
+data/1538.jpg loại đơn từ giấy trắng mực
+data/1539.jpg mong các ngài ban cho được
+data/1540.jpg sớ cầu như ý, sở
+data/1541.jpg đen gửi lên các đấng siêu hình,
+data/1542.jpg nguyện tòng tâm, sớ thay
+data/1543.jpg nên mang mâm lễ vật có tờ sớ
+data/1544.jpg cho lời khấn khi đi lễ,
+data/1545.jpg thêm phần tố hảo, viên mãn.
+data/1546.jpg loại công văn khác: Bắt đầu lá
+data/1547.jpg Để phân biệt sớ với các
+data/1548.jpg sớ bao giờ cũng có hai chữ
+data/1549.jpg "phục dĩ" và dòng cuối cùng thì
+data/1550.jpg Lưu Không trên tờ sớ rất
+data/1551.jpg hai chữ trên đầu ghi là "thiên vận"
+data/1552.jpg rộng, chân tờ sớ thì hẹp chỉ
+data/1553.jpg vừa cho con kiến chạy "thượng trừ bát
+data/1554.jpg phân, hạ thông nghĩ tẩu
+data/1555.jpg khoảng cách chữ lại rất mau
+data/1556.jpg mau "sơ hàng mật tự"
+data/1557.jpg Các cột chữ rất thưa nhưng
+data/1558.jpg bất khả nhất hàng" Khi viết họ tên người
+data/1559.jpg Một chữ không bao giờ được đứng riêng một cột
+data/1560.jpg phải đứng cùng một cột "bất đắc
+data/1561.jpg Đầu tiên sau hai chữ "phục dĩ"
+data/1562.jpg dân chủ của mình qua mấy hình thức?
+data/1563.jpg phân chiết tính danh"
+data/1564.jpg Luân cương đến với Bác Hồ. Và người đã khóc
+data/1565.jpg Lệ Bác Hồ rơi trên chữ Lê nin.
+data/1566.jpg Quán Tự Tại Bồ Tát hành thâm
+data/1567.jpg không tức thị sắc
+data/1568.jpg Xá Lợi Tử sắc bất dị không
+data/1569.jpg không bất dị sắc sắc tức thị không
+data/1570.jpg Xá Lợi Tử thị chư pháp không
+data/1571.jpg thọ tưởng hành thức diệp phục như thị
+data/1572.jpg bất cấu bất tịnh bất tăng
+data/1573.jpg tướng bất sanh bất diệt
+data/1574.jpg bất giảm. Thị cố không trung
+data/1575.jpg vô sắc, vô thọ tưởng hành
+data/1576.jpg thức. Vô nhãn nhĩ tỷ thiệt
+data/1577.jpg thân ý, vô sắc thanh hương
+data/1578.jpg vị xúc pháp, vô nhãn giới
+data/1579.jpg nãi chí vô ý thức giới.
+data/1580.jpg nãi chí vô lão tử, diệc
+data/1581.jpg Vô vô minh, diệc vô vô minh tận
+data/1582.jpg vô lão tự tận. Vô khổ
+data/1583.jpg Bồ đề tát đõa y Bát
+data/1584.jpg tập diệt đạo. Vô trí diệc vô
+data/1585.jpg đắc, dĩ vô sở đắc cố
+data/1586.jpg nhã Ba la mật đa cố, tâm
+data/1587.jpg ngại cố, vô hữu khủng bố,
+data/1588.jpg vô quái ngại, vô quái
+data/1589.jpg viễn ly điên đảo mộng tưởng
+data/1590.jpg cứu cánh niết bàn
+data/1591.jpg Tam thế chư Phật, y Bát nhã
+data/1592.jpg Ba la mật đa cố, tâm
+data/1593.jpg đắc A nậu đa la Tam
+data/1594.jpg đại thần chú, thị đại minh chú,
+data/1595.jpg Bát nhã Ba la mật đa thời
+data/1596.jpg chiếu kiến ngũ uẩn giai không
+data/1597.jpg thị vô thường chú, thị vô đẳng đẳng chú
+data/1598.jpg năng trừ nhất thiết khổ,
+data/1599.jpg chân thật bất hư.
+data/1600.jpg Cố thuyết Bát nhã Ba la mật
+data/1601.jpg đa chú, tức thuyết chú viết:
+data/1602.jpg Yết đế yết đế, ba la yết đế,
+data/1603.jpg ba la tăng yết đế
+data/1604.jpg bồ đề tát bà ha.
+data/1605.jpg độ nhứt thiết khổ ách
+data/1606.jpg miệu Tam bồ đề. Cố tri bát
+data/1607.jpg nhã Ba la mật đa, thị
+data/1608.jpg Trạng thái vạch kẻ trẻ con
+data/1609.jpg doanh lý do sự vật đất nước
+data/1610.jpg học trường hợp cuốn sách kinh
+data/1611.jpg loại giờ văn phòng câu chuyện
+data/1612.jpg giáo viên học sinh con cái
+data/1613.jpg tiệc những cái khác giáo dục
+data/1614.jpg thế giới thông tin người bạn
+data/1615.jpg thời gian cô gái tiền bạc
+data/1616.jpg đình sự thật năng lượng
+data/1617.jpg kiến thức khu vực mắt người
+data/1618.jpg chủ tịch chính phủ mẹ trò
+data/1619.jpg chơi đội cuộc sống tên
+data/1620.jpg gọi khía cạnh gương mặt gia
+data/1621.jpg nghề nghiệp tháng sức khỏe
+data/1622.jpg nước từng phần công việc
+data/1623.jpg Đường kết quả đầu vị trí
+data/1624.jpg bàn tay nhóm buổi sáng con
+data/1625.jpg người tuần hệ thống dịch vụ
+data/1626.jpg điểm quyền lợi ban đêm
+data/1627.jpg câu hỏi cha phút cơ thể
+data/1628.jpg căn phòng không khí
+data/1629.jpg khí thành viên xe
+data/1630.jpg hơi nghiên cứu nhà ánh
+data/1631.jpg nắng cộng đồng cánh cửa
+data/1632.jpg thay đổi chương sử
+data/1633.jpg lịch trình khía cạnh sự
+data/1634.jpg đàn ông chàng trai thay
+data/1635.jpg kết thúc thành viên loại
+data/1636.jpg trả dõi theo di chuyển lôi ra
+data/1637.jpg thêm vào tung hứng đọc bài
+data/1638.jpg dành thay đổi cảm thấy ngã
+data/1639.jpg phát triển tiếp tục thấy
+data/1640.jpg bắt nạt đấm đá sút đi
+data/1641.jpg vọng gặp gỡ chờ đợi để thừa
+data/1642.jpg xuất hiện làm việc bắt đầu
+data/1643.jpg lấy đi màu nước mắt hy
+data/1644.jpg viết mở trở thành đạt tới
+data/1645.jpg giúp chiến thắng sản xuất
+data/1646.jpg xoay hôn nhận dẫn dắt đến
+data/1647.jpg ốm to lạnh lùng trâng
+data/1648.jpg thành phố năm luật pháp từ cấp
+data/1649.jpg Công ty ý tưởng học tập vấn đề
+data/1650.jpg bậc nghệ thuật con số bữa
+data/1651.jpg sảng khoái xinh xẻo thật
+data/1652.jpg tráo xấu xí may mắn
+data/1653.jpg thông minh khát đẹp khéo léo
+data/1654.jpg tốt tươi tỉnh bất tiện
+data/1655.jpg nhẫn tâm đần độn vui mừng
+data/1656.jpg Mệt mỏi cảnh giác khó chịu
+data/1657.jpg dễ tính thấp già lịch sự
+data/1658.jpg Xấu hổ nóng nảy khỏe
+data/1659.jpg hạnh phúc lanh lợi thảo mai
+data/1660.jpg đê tiện kiên nhẫn
+data/1661.jpg thiếu kiên nhẫn bất cẩn
+data/1662.jpg e thẹn vô duyên khỏe mạnh nhẹ
+data/1663.jpg vui vẻ dũng cảm
+data/1664.jpg kín đáo tinh ranh ghét bỏ
+data/1665.jpg nhàng ngu dốt bình tĩnh
+data/1666.jpg buồn chán duyên dáng vụng về
+data/1667.jpg lo lắng yếu đuối bần tiện
+data/1668.jpg phóng khoáng rộng lượng
+data/1669.jpg dễ chịu cao no kiệt sức xấu
+data/1670.jpg thơ nghèo khổ tử tế
+data/1671.jpg tiêu cực giàu có lười biếng
+data/1672.jpg lo sợ dễ thương cẩn thận ngây
+data/1673.jpg dối trá tỉ mỉ trẻ trả
+data/1674.jpg nhìn cung cấp người ngồi đọc sách
+data/1675.jpg dừng lại chiến thắng hỏi
+data/1676.jpg chớp mắt kéo bán xuất
+data/1677.jpg hiện muốn rời khỏi gặp gỡ cảm
+data/1678.jpg thấy xoay để thừa đi bộ
+data/1679.jpg mở yêu cầu dõi theo chơi
+data/1680.jpg chạy nhảy vui tươi tung tóe
+data/1681.jpg đi cấp cứu ngay lập tức
+data/1682.jpg ngã đập đầu xuống giếng
+data/1683.jpg máu chảy đầm đìa ngất xỉu
+data/1684.jpg vẫn không qua khỏi
+data/1685.jpg của thời gian.
+data/1686.jpg gia quyến tiếc thương
+data/1687.jpg ngoài trời mưa tầm tã rửa trôi dấu vết
+data/1688.jpg Ba mươi năm sau tòa nhà mới được
+data/1689.jpg đó mỗi khi có người đến
+data/1690.jpg xây dựng trên vị trí
+data/1691.jpg đã có hơn ba trăm người
+data/1692.jpg đều sẽ chết vì ngã đập đầu
+data/1693.jpg vào giếng. Đến nay
+data/1694.jpg ra đi vì cùng một lý do
+data/1695.jpg nhưng mọi người vẫn thuê
+data/1696.jpg hèn khó tính gầy đói
+data/1697.jpg tích cực mập điềm đạm
+data/1698.jpg thành thật cởi mở
+data/1699.jpg Tại sao Trái Đất lại quay?
+data/1700.jpg Vì Trái Đất có sáu quả núi địa
+data/1701.jpg từ làm Trái Đất quay
+data/1702.jpg có lúc quay chậm?
+data/1703.jpg đâu?... Cuộc sống tại "trại lừa đảo"
+data/1704.jpg độc hại, nguyên nhân do
+data/1705.jpg trên trời chuyển ca.
+data/1706.jpg đáng sợ: cay nghiệt và
+data/1707.jpg qua lời kể của những
+data/1708.jpg nạn nhân buôn người
+data/1709.jpg lượng hải quân Trung Quốc
+data/1710.jpg tại Thái Lan. Nga coi khinh lực
+data/1711.jpg rúng động trong đường dây buôn
+data/1712.jpg "Mỹ nhân kế" bị lật tẩy
+data/1713.jpg bán người tại Tam Thí Tử.
+data/1714.jpg trí tuệ nhân tạo của Trung Quốc
+data/1715.jpg Chiến lược mới phát triển
+data/1716.jpg tội ác của con, đúng hay sai?
+data/1717.jpg lấp biển để xây dựng
+data/1718.jpg Siêu Sân bay. Che giấu
+data/1719.jpg câu hỏi gợi mở: Có thể
+data/1720.jpg Bí Thư Tô Lâm đặt
+data/1721.jpg phấn đấu đến hết thế kỉ
+data/1722.jpg đạt được siêu cấp thành tích.
+data/1723.jpg Nam giới Trung Quốc thay
+data/1724.jpg Không còn khoan nhượng.
+data/1725.jpg đổi thái độ yêu đương:
+data/1726.jpg hàng xóm ăn thịt người thì
+data/1727.jpg Chuyển đến Nhà Trọ cạnh
+data/1728.jpg mặt! Du khách Trung Quốc
+data/1729.jpg bị tẩy chay dưới toàn cầu.
+data/1730.jpg phải làm sao? Quá mất
+data/1731.jpg Không biết nói gì hơn
+data/1732.jpg bỏ "Hàm cá mập" và xây
+data/1733.jpg dựng quảng trường mới
+data/1734.jpg Bất ngờ lí do Hà Nội gỡ
+data/1735.jpg đã tham gia sảnh chờ
+data/1736.jpg Tên lửa đạn đạo siêu to khủng khiếp
+data/1737.jpg Thiên sứ công nghệ tương lai
+data/1738.jpg Bóng ma hỏa ảnh hàng hiệu
+data/1739.jpg Vận chuyển hai cái gấu từ Hòa Lạc
+data/1740.jpg Cẩu công từ Khu Công nghiệp
+data/1741.jpg Hạ cốt pha ở hồ câu Tam Điệp
+data/1742.jpg Ngọc Hồi đến cầu Tân Thượng
+data/1743.jpg Sát thủ bóng tối che mặt giấu tên
+data/1744.jpg Tại sao có lúc quay nhanh
+data/1745.jpg Trà chanh vị xanh không độ
+data/1746.jpg Sáng nắng chiều mưa trưa
+data/1747.jpg Phúc lộc thọ an ninh
+data/1748.jpg Vì các vị đấng sáng tạo
+data/1749.jpg Phụ nữ Trung Quốc trở nên vô cùng
+data/1750.jpg Lưỡi kiếm tối thượng đảo lộn thực tại
+data/1751.jpg Trời xanh mây trắng
+data/1752.jpg cây bút hết mực
+data/1753.jpg mèo đuổi chuột
+data/1754.jpg gió thổi lá rơi
+data/1755.jpg Đường về xa lắm
+data/1756.jpg cá bơi trong nước
+data/1757.jpg đèn tắt tối om
+data/1758.jpg bầu trời biết khóc
+data/1759.jpg nước mắt không vị
+data/1760.jpg Hạt cát bé nhỏ
+data/1761.jpg Cái ly vỡ tan
+data/1762.jpg Ánh sáng mờ nhạt
+data/1763.jpg Tia nắng đầu ngày
+data/1764.jpg con kiến leo cây
+data/1765.jpg đất mềm như bông
+data/1766.jpg gió hát ru đời
+data/1767.jpg chó sủa trăng sáng
+data/1768.jpg đường dài hun hút
+data/1769.jpg mưa rơi tí tách
+data/1770.jpg đêm không có sáng
+data/1771.jpg cánh đồng im lặng
+data/1772.jpg Lá rụng đầy sân
+data/1773.jpg Mặt trời không ngủ
+data/1774.jpg Sương đọng trên cỏ
+data/1775.jpg cây cao bóng rợp
+data/1776.jpg bàn tay ấm áp
+data/1777.jpg Biển xanh sâu thẳm
+data/1778.jpg Hoa nở rồi tàn
+data/1779.jpg cát mịn chân mềm
+data/1780.jpg Chim bay xa mãi
+data/1781.jpg đường về không nhớ
+data/1782.jpg Trái đất xoay tròn
+data/1783.jpg Lửa cháy bập bùng
+data/1784.jpg Sóng vỗ bờ xa
+data/1785.jpg cơn gió lạ lùng
+data/1786.jpg Trái tim lặng lẽ
+data/1787.jpg Mắt nhìn không thấy
+data/1788.jpg Cánh cửa khép hở
+data/1789.jpg chén cơm nguội lạnh
+data/1790.jpg Hương thơm nhè nhẹ
+data/1791.jpg Thời gian im lặng
+data/1792.jpg Lá non vừa nhú
+data/1793.jpg Đá cứng không tan
+data/1794.jpg Bầu trời lặng gió
+data/1795.jpg Hoa sen tỏa hương
+data/1796.jpg bóng mờ ảo diệu
+data/1797.jpg Tiếng cười vang xa
+data/1798.jpg Mèo con lười biếng
+data/1799.jpg đàn cá tung tăng
+data/1800.jpg Mặt hồ phẳng lặng
+data/1801.jpg hoa hồng đỏ rực
+data/1802.jpg chai nước rỗng không
+data/1803.jpg con dế gáy vang
+data/1804.jpg Mắt biếc long lanh
+data/1805.jpg Đất trời bao la
+data/1806.jpg Hàng cây xanh mát
+data/1807.jpg ánh sáng lập lòe
+data/1808.jpg cơn mưa đầu hạ
+data/1809.jpg Đêm lặng như tờ
+data/1810.jpg Lời ca bay xa
+data/1811.jpg Hành trình dài dặc
+data/1812.jpg Bóng người xa khuất
+data/1813.jpg Màu xanh hy vọng
+data/1814.jpg đêm khuya tĩnh mịch
+data/1815.jpg lặng im là vàng
+data/1816.jpg Tờ giấy trắng tinh
+data/1817.jpg Mơ màng giấc mộng
+data/1818.jpg biển rộng trời cao
+data/1819.jpg trăng sáng đầu mùa
+data/1820.jpg gió lạnh thổi qua
+data/1821.jpg chuyện cũ nhạt nhòa
+data/1822.jpg sông sâu nước lặng
+data/1823.jpg chân trần trên cát
+data/1824.jpg cầu vồng bảy sắc
+data/1825.jpg Đám mây bay chậm
+data/1826.jpg Bình minh ló dạng
+data/1827.jpg Lá khô xào xạc
+data/1828.jpg Bóng tối mờ ảo
+data/1829.jpg hơi thở nhẹ nhàng
+data/1830.jpg Đường cong mềm mại
+data/1831.jpg cơn gió thoáng qua
+data/1832.jpg Nước mắt lặng lẽ
+data/1833.jpg Đôi mắt xa xăm
+data/1834.jpg Tia chớp sáng lóa
+data/1835.jpg giấc mơ vụt tắt
+data/1836.jpg Nắng chiếu yếu ớt
+data/1837.jpg Đàn chim di trú
+data/1838.jpg Mùa xuân ấm áp
+data/1839.jpg Bông cúc nhỏ xinh
+data/1840.jpg Làn gió nhẹ nhàng
+data/1841.jpg cơn mưa tí tách
+data/1842.jpg Đất trời hòa quyện
+data/1843.jpg ánh mắt dịu dàng
+data/1844.jpg Mùa hè rực rỡ
+data/1845.jpg Nụ cười lấp lánh
+data/1846.jpg Hạt mưa bé nhỏ
+data/1847.jpg cơn sóng bạc đầu
+data/1848.jpg Dòng sông uốn lượn
+data/1849.jpg Lá bàng đỏ thắm
+data/1850.jpg Hương thơm ngào ngạt
+data/1851.jpg Tiếng vang xa xăm
+data/1852.jpg đèn đường lấp lánh
+data/1853.jpg chó con tinh nghịch
+data/1854.jpg nụ hoa chớm nở
+data/1855.jpg mưa fùn lất phất
+data/1856.jpg ánh mắt bí ẩn
+data/1857.jpg cánh đồng bát ngát
+data/1858.jpg Đêm lạnh giá băng
+data/1859.jpg bóng dáng thân quen
+data/1860.jpg dấu chân lặng lẽ
+data/1861.jpg Bầu trời mênh mông
+data/1862.jpg Cánh bướm lượn vòng
+data/1863.jpg Tảng đá trơ trọi
+data/1864.jpg Lời nói dịu dàng
+data/1865.jpg Nước chảy róc rách
+data/1866.jpg Cơn gió hoang dại
+data/1867.jpg Trăng non mỏng manh
+data/1868.jpg Mây bay phiêu lãng
+data/1869.jpg Đêm dài vô tận
+data/1870.jpg lòng biển sâu thẳm
+data/1871.jpg tiếng ve rộn ràng
+data/1872.jpg bóng mây lướt nhẹ
+data/1873.jpg làn sương mỏng manh
+data/1874.jpg cỏ xanh mềm mại
+data/1875.jpg đá sỏi lăn tăn
+data/1876.jpg chai thủy tinh vỡ
+data/1877.jpg tia sáng cuối ngày
+data/1878.jpg cây cối xào xạc
+data/1879.jpg lòng sông tĩnh lặng
+data/1880.jpg gió chiều lặng lẽ
+data/1881.jpg Hoa đào khoe sắc
+data/1882.jpg cánh chim cô độc
+data/1883.jpg trái tim băng giá
+data/1884.jpg nắng hồng ban mai
+data/1885.jpg biển khơi vô tận
+data/1886.jpg Lá phong đỏ rực
+data/1887.jpg Dòng suối trong veo
+data/1888.jpg cánh bướm lung linh
+data/1889.jpg hàng dừa nghiêng ngả
+data/1890.jpg cầu vồng rực rỡ
+data/1891.jpg mặt trời chói chang
+data/1892.jpg mưa rào xối xả
+data/1893.jpg màu đông lạnh lẽo
+data/1894.jpg cơn gió vội vã
+data/1895.jpg mây trắng lững lờ
+data/1896.jpg ánh trăng bàng bạc
+data/1897.jpg đêm khuya tĩnh mịch
+data/1898.jpg dòng sông lặng lờ
+data/1899.jpg biển cả mênh mông
+data/1900.jpg Lá vàng rơi rụng
+data/1901.jpg cơn mưa rơi trên mái ngói
+data/1902.jpg gió thổi qua cánh đồng xanh
+data/1903.jpg mặt trời ló dạng buổi sớm
+data/1904.jpg đêm khuya ko ai còn thức
+data/1905.jpg dòng sông chảy xuôi vô tận
+data/1906.jpg lá rụng đầy sân trước nhà
+data/1907.jpg chuyến tàu muộn vừa lăn bánh
+data/1908.jpg bông hoa nở giữa ngày đông
+data/1909.jpg ánh sáng lấp lánh trong đêm
+data/1910.jpg tiếng đàn ngân nga réo rắt
+data/1911.jpg Hạt sương đọng trên lá cỏ
+data/1912.jpg con đường dài hun hút mãi
+data/1913.jpg Nước mắt lặng lẽ tuôn rơi
+data/1914.jpg cánh bướm bay lươn tự do
+data/1915.jpg nụ cười làm sáng cả ngày
+data/1916.jpg đám mây trôi chậm trên trời
+data/1917.jpg đàn chim bay về fương Nam
+data/1918.jpg Hương hoa thoang thoảng trong gió
+data/1919.jpg Mặt biển xanh biếc dịu êm
+data/1920.jpg Bầu trời xanh ko gợn mây
+data/1921.jpg cơn gió lạnh ùa về vội
+data/1922.jpg nắng chiếu xuyên qua kẽ lá
+data/1923.jpg tiếng ve kêu râm ran mãi
+data/1924.jpg đêm buồn không người tâm sự
+data/1925.jpg hạt cát nhỏ bé vô thường
+data/1926.jpg ánh trắng sáng trên mặt hồ
+data/1927.jpg đồi núi chập chùng xa tắp
+data/1928.jpg màu xanh fủ kín cánh đồng
+data/1929.jpg đèn fố sáng rực màn đêm
+data/1930.jpg con thuyền lặng lẽ xuôi dòng
+data/1931.jpg cơn sóng bạc đầu xô bờ
+data/1932.jpg làn sương sớm fủ lối đi
+data/1933.jpg mặt hồ fẳng lặng như gương
+data/1934.jpg hương cà phê thơm lừng
+data/1935.jpg cành cây khô gãy giữa đêm
+data/1936.jpg tiếng chuông nhà thờ vọng lại
+data/1937.jpg bức tranh thiên nhiên tuyệt đẹp
+data/1938.jpg dòng thời gian trôi mãi mãi
+data/1939.jpg lá cờ tung bay trong gió
+data/1940.jpg cây cầu cong bắc qua sông
+data/1941.jpg đàn cá lội dưới nước mát
+data/1942.jpg tia nắng nhẹ xuyên qua mây
+data/1943.jpg tiếng cười trẻ thơ trong trẻo
+data/1944.jpg mặt trời lặn fía chân trời
+data/1945.jpg cơn mưa rào bất chợt đến
+data/1946.jpg đường phố đông đúc xe cộ
+data/1947.jpg chú mèo nhỏ đang ngủ ngon
+data/1948.jpg ánh mắt buồn không lời nói
+data/1949.jpg cơn gió cuối thu se lạnh
+data/1950.jpg hoa dại nở bên vệ đường
+data/1951.jpg hương lúa chín - thơm đồng nội
+data/1952.jpg tiếng nhạc vang lên dịu dàng
+data/1953.jpg bước chân lặng lẽ trong đêm
+data/1954.jpg dải ngân hà lấp lánh sáng
+data/1955.jpg con diều bay cao theo gió
+data/1956.jpg chồi non vươn mình xanh biếc
+data/1957.jpg làn khói bếp bay chầm chậm
+data/1958.jpg mái nhà tranh cũ kỹ quá
+data/1959.jpg đêm mưa rả rích ko dứt
+data/1960.jpg dòng suối róc rách bên rừng
+data/1961.jpg ánh - nắng vàng fủ mái nhà
+data/1962.jpg tiếng côn trùng kêu rả rích
+data/1963.jpg nụ hoa bé nhỏ tỏa hương
+data/1964.jpg gió cuốn lá vàng bay xa
+data/1965.jpg ánh sao sáng giữa trời đêm
+data/1966.jpg cánh đồng lúa chín bát ngát
+data/1967.jpg dòng sông chảy quanh làng nhỏ
+data/1968.jpg mua fùn rơi nhẹ đầu xuân
+data/1969.jpg chiếc lá vàng rơi lặng lẽ
+data/1970.jpg tiếng sóng vỗ bờ nhè nhẹ
+data/1971.jpg bãi cát trắng dài vô tận
+data/1972.jpg cánh đồng hoa vàng rực rỡ
+data/1973.jpg dãy núi fủ tuyết trắng xóa 
+data/1974.jpg gió xuân thổi mát tâm hồn
+data/1975.jpg dấu chân in hằn trên cát
+data/1976.jpg bóng cây rợp mát lối đi
+data/1977.jpg mặt nước lung linh fản chiếu
+data/1978.jpg tiếng sáo diều vi vu mãi
+data/1979.jpg hàng tre xanh đứng im lặng
+data/1980.jpg đàn vịt bơi lội tung tăng
+data/1981.jpg hàng cau xanh đứng hiên ngang
+data/1982.jpg đèn lồng đỏ treo trước cổng
+data/1983.jpg màu hè nóng bức ngột ngạt
+data/1984.jpg làn khói lam chiều vương vấn
+data/1985.jpg cơn mưa cuối mùa dai dẳng
+data/1986.jpg con đường làng quanh co mãi
+data/1987.jpg tiếng đàn bầu ngân xa xăm
+data/1988.jpg cơn gió lướt qua khe - cửa
+data/1989.jpg đám mây tím chiều hoàng hôn
+data/1990.jpg đồi thông vi vu trong gió 
+data/1991.jpg chú chó nhỏ chạy tung tăng
+data/1992.jpg đèn dầu tỏa ánh sáng vàng
+data/1993.jpg nước suối trong mát lững lờ
+data/1994.jpg dòng suối vắng lặng đêm khuya
+data/1995.jpg cánh đồng cỏ xanh mướt
+data/1996.jpg cây cổ thụ già rêu fong
+data/1997.jpg bầu trời xanh x trong ko gợn
+data/1998.jpg mùi hương nhài thoang thoảng bay
+data/1999.jpg tiếng cười trẻ thơ lan tỏa
+data/2000.jpg mặt trăng treo lơ lửng mã
+	 
